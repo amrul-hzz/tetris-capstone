@@ -9,6 +9,7 @@ st.set_page_config(
 
 df_jmlh_sekolah  = pd.read_csv('df_jmlh_sekolah.csv')
 df_jumlah_peserta_didik  = pd.read_csv('df_jmlh_peserta_didik.csv')
+df_peserta_per_sekolah = pd.read_csv('df_peserta_per_sekolah.csv')
 df_hls  = pd.read_csv('df_hls.csv')
 
 st.title("Exploring High School Trends Throughout Cities and Regencies in Aceh, 2020-2022")
@@ -58,7 +59,7 @@ def create_chart_1(df, year):
     
     return chart
 
-selected_year = st.slider('Select Year', min_value=2020, max_value=2022, step=1)
+selected_year = st.slider('Select Year for Expected Years of Schooling Chart', min_value=2020, max_value=2022, step=1)
 chart_1 = create_chart_1(df_hls, selected_year)
 st.altair_chart(chart_1, use_container_width=True)
 
@@ -79,10 +80,10 @@ bottom_3 = ['bener meriah', 'aceh barat daya', 'aceh timur']
 filtered_df_top_bottom = df_hls[df_hls['daerah'].isin(top_3 + bottom_3)]
 
 # Filter data for selected years
-filtered_df_top_bottom_selected_years = filtered_df_top_bottom[['daerah', 'hls_2020', 'hls_2021', 'hls_2022']]
+filtered_df_top_bottom_selected_years = filtered_df_top_bottom[['daerah', 'hls_2020', 'hls_2021', 'hls_2022']].rename(columns={'hls_2020': '2020', 'hls_2021': '2021', 'hls_2022': '2022'})
 
 # Melt the DataFrame to convert it to long format
-melted_df = pd.melt(filtered_df_top_bottom_selected_years, id_vars=['daerah'], value_vars=['hls_2020', 'hls_2021', 'hls_2022'], var_name='Year', value_name='EYS')
+melted_df = pd.melt(filtered_df_top_bottom_selected_years, id_vars=['daerah'], value_vars=['2020', '2021', '2022'], var_name='Year', value_name='EYS')
 
 # Map colors for top 3 cities and bottom 3 regencies
 color_mapping = {
@@ -118,9 +119,86 @@ st.write("""
 ## Question #2: How does the number of schools in a region grow in comparison to the number of students enrolling there that year?
 """)
 
-# st.write("""
-# ## Question #3: How does the EYS of a region compare to its neighbours through the years?
-# """)
+st.write("### Senior High School (SMA)")
+
+def create_chart_2a(df, year):
+    filtered_df = df[['daerah', 'tahun', 'rasio_peserta_sma']].rename(columns={'daerah':'Region', 'tahun':'Year', 'rasio_peserta_sma': 'Student per School (SMA)'})
+    filtered_df = filtered_df[filtered_df['Year'] == year]
+
+    chart = alt.Chart(filtered_df).mark_bar().encode(
+        x=alt.X('Region:N', sort='-y'),
+        y=alt.Y('Student per School (SMA):Q', scale=alt.Scale(domain=[0, 800])),
+        color=alt.condition(
+            alt.FieldOneOfPredicate(field='Region', oneOf=cities),
+            alt.value('orange'),
+            alt.value('steelblue')  
+        )
+    ).properties(
+        width=600,
+        height=600,
+        title=f'Student to School Ratio (SMA) in {year}'
+    )
+    
+    return chart
+
+selected_year2a = st.slider('Select Year for Student to School Ratio (SMA) Chart', min_value=2020, max_value=2022, step=1)
+chart_2a = create_chart_2a(df_peserta_per_sekolah, selected_year2a)
+st.altair_chart(chart_2a, use_container_width=True)
+
+st.write("### Vocational High School (SMK)")
+
+def create_chart_2b(df, year):
+    filtered_df = df[['daerah', 'tahun', 'rasio_peserta_smk']].rename(columns={'daerah':'Region', 'tahun':'Year', 'rasio_peserta_smk': 'Student per School (SMK)'})
+    filtered_df = filtered_df[filtered_df['Year'] == year]
+
+    chart = alt.Chart(filtered_df).mark_bar().encode(
+        x=alt.X('Region:N', sort='-y'),
+        y=alt.Y('Student per School (SMK):Q', scale=alt.Scale(domain=[0, 1200])),
+        color=alt.condition(
+            alt.FieldOneOfPredicate(field='Region', oneOf=cities),
+            alt.value('orange'),
+            alt.value('steelblue')  
+        )
+    ).properties(
+        width=600,
+        height=600,
+        title=f'Student to School Ratio (SMK) in {year}'
+    )
+    
+    return chart
+
+selected_year2b = st.slider('Select Year for Student to School Ratio (SMK) Chart', min_value=2020, max_value=2022, step=1)
+chart_2b = create_chart_2b(df_peserta_per_sekolah, selected_year2b)
+st.altair_chart(chart_2b, use_container_width=True)
+
+st.write("### Special Needs School (SLB)")
+
+def create_chart_2c(df, year):
+    filtered_df = df[['daerah', 'tahun', 'rasio_peserta_slb']].rename(columns={'daerah':'Region', 'tahun':'Year', 'rasio_peserta_slb': 'Student per School (SLB)'})
+    filtered_df = filtered_df[filtered_df['Year'] == year]
+
+    chart = alt.Chart(filtered_df).mark_bar().encode(
+        x=alt.X('Region:N', sort='-y'),
+        y=alt.Y('Student per School (SLB):Q', scale=alt.Scale(domain=[0, 600])),
+        color=alt.condition(
+            alt.FieldOneOfPredicate(field='Region', oneOf=cities),
+            alt.value('orange'),
+            alt.value('steelblue')  
+        )
+    ).properties(
+        width=600,
+        height=600,
+        title=f'Student to School Ratio (SLB) in {year}'
+    )
+    
+    return chart
+
+selected_year2c = st.slider('Select Year for Student to School Ratio (SLB) Chart', min_value=2020, max_value=2022, step=1)
+chart_2c = create_chart_2c(df_peserta_per_sekolah, selected_year2c)
+st.altair_chart(chart_2c, use_container_width=True)
+
+
+# =============================================================================================================================================================
 
 st.write("""
 ## What then?
