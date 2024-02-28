@@ -1,0 +1,1381 @@
+daerah,tahun,semester,jenjang,jumlah,kabupaten_kota
+aceh selatan,2020,1,tidak/belum sekolah,43291,kabupaten
+aceh tenggara,2020,1,tidak/belum sekolah,61151,kabupaten
+aceh timur,2020,1,tidak/belum sekolah,130851,kabupaten
+aceh tengah,2020,1,tidak/belum sekolah,61514,kabupaten
+aceh barat,2020,1,tidak/belum sekolah,39341,kabupaten
+aceh besar,2020,1,tidak/belum sekolah,80834,kabupaten
+pidie,2020,1,tidak/belum sekolah,86042,kabupaten
+aceh utara,2020,1,tidak/belum sekolah,123306,kabupaten
+simeulue,2020,1,tidak/belum sekolah,17895,kabupaten
+aceh singkil,2020,1,tidak/belum sekolah,44227,kabupaten
+bireuen,2020,1,tidak/belum sekolah,90971,kabupaten
+aceh barat daya,2020,1,tidak/belum sekolah,36207,kabupaten
+gayo lues,2020,1,tidak/belum sekolah,30620,kabupaten
+aceh jaya,2020,1,tidak/belum sekolah,19095,kabupaten
+nagan raya,2020,1,tidak/belum sekolah,39950,kabupaten
+aceh tamiang,2020,1,tidak/belum sekolah,96127,kabupaten
+bener meriah,2020,1,tidak/belum sekolah,45296,kabupaten
+pidie jaya,2020,1,tidak/belum sekolah,37255,kabupaten
+banda aceh,2020,1,tidak/belum sekolah,61011,kota
+sabang,2020,1,tidak/belum sekolah,8890,kota
+lhokseumawe,2020,1,tidak/belum sekolah,43306,kota
+langsa,2020,1,tidak/belum sekolah,51311,kota
+subulussalam,2020,1,tidak/belum sekolah,28434,kota
+aceh selatan,2020,1,belum tamat sd/sederajat,28712,kabupaten
+aceh tenggara,2020,1,belum tamat sd/sederajat,27115,kabupaten
+aceh timur,2020,1,belum tamat sd/sederajat,42913,kabupaten
+aceh tengah,2020,1,belum tamat sd/sederajat,23076,kabupaten
+aceh barat,2020,1,belum tamat sd/sederajat,25538,kabupaten
+aceh besar,2020,1,belum tamat sd/sederajat,51189,kabupaten
+pidie,2020,1,belum tamat sd/sederajat,62905,kabupaten
+aceh utara,2020,1,belum tamat sd/sederajat,78426,kabupaten
+simeulue,2020,1,belum tamat sd/sederajat,12680,kabupaten
+aceh singkil,2020,1,belum tamat sd/sederajat,21108,kabupaten
+bireuen,2020,1,belum tamat sd/sederajat,53719,kabupaten
+aceh barat daya,2020,1,belum tamat sd/sederajat,18939,kabupaten
+gayo lues,2020,1,belum tamat sd/sederajat,17312,kabupaten
+aceh jaya,2020,1,belum tamat sd/sederajat,12181,kabupaten
+nagan raya,2020,1,belum tamat sd/sederajat,19052,kabupaten
+aceh tamiang,2020,1,belum tamat sd/sederajat,34783,kabupaten
+bener meriah,2020,1,belum tamat sd/sederajat,17897,kabupaten
+pidie jaya,2020,1,belum tamat sd/sederajat,22032,kabupaten
+banda aceh,2020,1,belum tamat sd/sederajat,24293,kota
+sabang,2020,1,belum tamat sd/sederajat,5208,kota
+lhokseumawe,2020,1,belum tamat sd/sederajat,20013,kota
+langsa,2020,1,belum tamat sd/sederajat,15943,kota
+subulussalam,2020,1,belum tamat sd/sederajat,15034,kota
+aceh selatan,2020,1,tamat sd/sederajat,63761,kabupaten
+aceh tenggara,2020,1,tamat sd/sederajat,35795,kabupaten
+aceh timur,2020,1,tamat sd/sederajat,115299,kabupaten
+aceh tengah,2020,1,tamat sd/sederajat,36768,kabupaten
+aceh barat,2020,1,tamat sd/sederajat,43218,kabupaten
+aceh besar,2020,1,tamat sd/sederajat,59516,kabupaten
+pidie,2020,1,tamat sd/sederajat,73800,kabupaten
+aceh utara,2020,1,tamat sd/sederajat,140578,kabupaten
+simeulue,2020,1,tamat sd/sederajat,21339,kabupaten
+aceh singkil,2020,1,tamat sd/sederajat,21725,kabupaten
+bireuen,2020,1,tamat sd/sederajat,93965,kabupaten
+aceh barat daya,2020,1,tamat sd/sederajat,37038,kabupaten
+gayo lues,2020,1,tamat sd/sederajat,19766,kabupaten
+aceh jaya,2020,1,tamat sd/sederajat,23690,kabupaten
+nagan raya,2020,1,tamat sd/sederajat,38901,kabupaten
+aceh tamiang,2020,1,tamat sd/sederajat,67122,kabupaten
+bener meriah,2020,1,tamat sd/sederajat,28996,kabupaten
+pidie jaya,2020,1,tamat sd/sederajat,28521,kabupaten
+banda aceh,2020,1,tamat sd/sederajat,14620,kota
+sabang,2020,1,tamat sd/sederajat,5671,kota
+lhokseumawe,2020,1,tamat sd/sederajat,23192,kota
+langsa,2020,1,tamat sd/sederajat,27837,kota
+subulussalam,2020,1,tamat sd/sederajat,17376,kota
+aceh selatan,2020,1,sltp/sederajat,37309,kabupaten
+aceh tenggara,2020,1,sltp/sederajat,35332,kabupaten
+aceh timur,2020,1,sltp/sederajat,63236,kabupaten
+aceh tengah,2020,1,sltp/sederajat,30783,kabupaten
+aceh barat,2020,1,sltp/sederajat,26743,kabupaten
+aceh besar,2020,1,sltp/sederajat,54307,kabupaten
+pidie,2020,1,sltp/sederajat,74031,kabupaten
+aceh utara,2020,1,sltp/sederajat,88438,kabupaten
+simeulue,2020,1,sltp/sederajat,14010,kabupaten
+aceh singkil,2020,1,sltp/sederajat,13960,kabupaten
+bireuen,2020,1,sltp/sederajat,73853,kabupaten
+aceh barat daya,2020,1,sltp/sederajat,22144,kabupaten
+gayo lues,2020,1,sltp/sederajat,11764,kabupaten
+aceh jaya,2020,1,sltp/sederajat,14231,kabupaten
+nagan raya,2020,1,sltp/sederajat,25040,kabupaten
+aceh tamiang,2020,1,sltp/sederajat,38154,kabupaten
+bener meriah,2020,1,sltp/sederajat,25485,kabupaten
+pidie jaya,2020,1,sltp/sederajat,29945,kabupaten
+banda aceh,2020,1,sltp/sederajat,23088,kota
+sabang,2020,1,sltp/sederajat,6091,kota
+lhokseumawe,2020,1,sltp/sederajat,21771,kota
+langsa,2020,1,sltp/sederajat,24180,kota
+subulussalam,2020,1,sltp/sederajat,9776,kota
+aceh selatan,2020,1,slta/sederajat,49296,kabupaten
+aceh tenggara,2020,1,slta/sederajat,54735,kabupaten
+aceh timur,2020,1,slta/sederajat,58057,kabupaten
+aceh tengah,2020,1,slta/sederajat,46847,kabupaten
+aceh barat,2020,1,slta/sederajat,46824,kabupaten
+aceh besar,2020,1,slta/sederajat,107785,kabupaten
+pidie,2020,1,slta/sederajat,115794,kabupaten
+aceh utara,2020,1,slta/sederajat,133863,kabupaten
+simeulue,2020,1,slta/sederajat,20169,kabupaten
+aceh singkil,2020,1,slta/sederajat,20114,kabupaten
+bireuen,2020,1,slta/sederajat,99398,kabupaten
+aceh barat daya,2020,1,slta/sederajat,29543,kabupaten
+gayo lues,2020,1,slta/sederajat,15011,kabupaten
+aceh jaya,2020,1,slta/sederajat,17088,kabupaten
+nagan raya,2020,1,slta/sederajat,38542,kabupaten
+aceh tamiang,2020,1,slta/sederajat,49005,kabupaten
+bener meriah,2020,1,slta/sederajat,33485,kabupaten
+pidie jaya,2020,1,slta/sederajat,34258,kabupaten
+banda aceh,2020,1,slta/sederajat,72988,kota
+sabang,2020,1,slta/sederajat,12641,kota
+lhokseumawe,2020,1,slta/sederajat,65503,kota
+langsa,2020,1,slta/sederajat,51207,kota
+subulussalam,2020,1,slta/sederajat,13845,kota
+aceh selatan,2020,1,diploma i/ii,2500,kabupaten
+aceh tenggara,2020,1,diploma i/ii,2036,kabupaten
+aceh timur,2020,1,diploma i/ii,2397,kabupaten
+aceh tengah,2020,1,diploma i/ii,2488,kabupaten
+aceh barat,2020,1,diploma i/ii,2422,kabupaten
+aceh besar,2020,1,diploma i/ii,4822,kabupaten
+pidie,2020,1,diploma i/ii,4244,kabupaten
+aceh utara,2020,1,diploma i/ii,2585,kabupaten
+simeulue,2020,1,diploma i/ii,1247,kabupaten
+aceh singkil,2020,1,diploma i/ii,699,kabupaten
+bireuen,2020,1,diploma i/ii,4158,kabupaten
+aceh barat daya,2020,1,diploma i/ii,1736,kabupaten
+gayo lues,2020,1,diploma i/ii,924,kabupaten
+aceh jaya,2020,1,diploma i/ii,980,kabupaten
+nagan raya,2020,1,diploma i/ii,2062,kabupaten
+aceh tamiang,2020,1,diploma i/ii,1789,kabupaten
+bener meriah,2020,1,diploma i/ii,1619,kabupaten
+pidie jaya,2020,1,diploma i/ii,1392,kabupaten
+banda aceh,2020,1,diploma i/ii,3077,kota
+sabang,2020,1,diploma i/ii,327,kota
+lhokseumawe,2020,1,diploma i/ii,898,kota
+langsa,2020,1,diploma i/ii,1293,kota
+subulussalam,2020,1,diploma i/ii,603,kota
+aceh selatan,2020,1,akademi/diploma iii/s.muda,3151,kabupaten
+aceh tenggara,2020,1,akademi/diploma iii/s.muda,2613,kabupaten
+aceh timur,2020,1,akademi/diploma iii/s.muda,4039,kabupaten
+aceh tengah,2020,1,akademi/diploma iii/s.muda,3424,kabupaten
+aceh barat,2020,1,akademi/diploma iii/s.muda,3308,kabupaten
+aceh besar,2020,1,akademi/diploma iii/s.muda,9557,kabupaten
+pidie,2020,1,akademi/diploma iii/s.muda,7842,kabupaten
+aceh utara,2020,1,akademi/diploma iii/s.muda,6023,kabupaten
+simeulue,2020,1,akademi/diploma iii/s.muda,1867,kabupaten
+aceh singkil,2020,1,akademi/diploma iii/s.muda,1322,kabupaten
+bireuen,2020,1,akademi/diploma iii/s.muda,7081,kabupaten
+aceh barat daya,2020,1,akademi/diploma iii/s.muda,2153,kabupaten
+gayo lues,2020,1,akademi/diploma iii/s.muda,1391,kabupaten
+aceh jaya,2020,1,akademi/diploma iii/s.muda,1313,kabupaten
+nagan raya,2020,1,akademi/diploma iii/s.muda,2388,kabupaten
+aceh tamiang,2020,1,akademi/diploma iii/s.muda,3058,kabupaten
+bener meriah,2020,1,akademi/diploma iii/s.muda,2378,kabupaten
+pidie jaya,2020,1,akademi/diploma iii/s.muda,2533,kabupaten
+banda aceh,2020,1,akademi/diploma iii/s.muda,10879,kota
+sabang,2020,1,akademi/diploma iii/s.muda,972,kota
+lhokseumawe,2020,1,akademi/diploma iii/s.muda,4525,kota
+langsa,2020,1,akademi/diploma iii/s.muda,3367,kota
+subulussalam,2020,1,akademi/diploma iii/s.muda,913,kota
+aceh selatan,2020,1,diploma iv/strata i,9252,kabupaten
+aceh tenggara,2020,1,diploma iv/strata i,7741,kabupaten
+aceh timur,2020,1,diploma iv/strata i,7895,kabupaten
+aceh tengah,2020,1,diploma iv/strata i,10002,kabupaten
+aceh barat,2020,1,diploma iv/strata i,8658,kabupaten
+aceh besar,2020,1,diploma iv/strata i,25272,kabupaten
+pidie,2020,1,diploma iv/strata i,18374,kabupaten
+aceh utara,2020,1,diploma iv/strata i,14863,kabupaten
+simeulue,2020,1,diploma iv/strata i,4683,kabupaten
+aceh singkil,2020,1,diploma iv/strata i,4096,kabupaten
+bireuen,2020,1,diploma iv/strata i,17879,kabupaten
+aceh barat daya,2020,1,diploma iv/strata i,4765,kabupaten
+gayo lues,2020,1,diploma iv/strata i,4391,kabupaten
+aceh jaya,2020,1,diploma iv/strata i,3778,kabupaten
+nagan raya,2020,1,diploma iv/strata i,5960,kabupaten
+aceh tamiang,2020,1,diploma iv/strata i,8343,kabupaten
+bener meriah,2020,1,diploma iv/strata i,5812,kabupaten
+pidie jaya,2020,1,diploma iv/strata i,5827,kabupaten
+banda aceh,2020,1,diploma iv/strata i,32357,kota
+sabang,2020,1,diploma iv/strata i,2400,kota
+lhokseumawe,2020,1,diploma iv/strata i,9921,kota
+langsa,2020,1,diploma iv/strata i,11837,kota
+subulussalam,2020,1,diploma iv/strata i,2893,kota
+aceh selatan,2020,1,strata ii,271,kabupaten
+aceh tenggara,2020,1,strata ii,345,kabupaten
+aceh timur,2020,1,strata ii,208,kabupaten
+aceh tengah,2020,1,strata ii,559,kabupaten
+aceh barat,2020,1,strata ii,468,kabupaten
+aceh besar,2020,1,strata ii,2147,kabupaten
+pidie,2020,1,strata ii,624,kabupaten
+aceh utara,2020,1,strata ii,492,kabupaten
+simeulue,2020,1,strata ii,110,kabupaten
+aceh singkil,2020,1,strata ii,120,kabupaten
+bireuen,2020,1,strata ii,586,kabupaten
+aceh barat daya,2020,1,strata ii,164,kabupaten
+gayo lues,2020,1,strata ii,160,kabupaten
+aceh jaya,2020,1,strata ii,118,kabupaten
+nagan raya,2020,1,strata ii,162,kabupaten
+aceh tamiang,2020,1,strata ii,231,kabupaten
+bener meriah,2020,1,strata ii,132,kabupaten
+pidie jaya,2020,1,strata ii,147,kabupaten
+banda aceh,2020,1,strata ii,4317,kota
+sabang,2020,1,strata ii,114,kota
+lhokseumawe,2020,1,strata ii,896,kota
+langsa,2020,1,strata ii,928,kota
+subulussalam,2020,1,strata ii,94,kota
+aceh selatan,2020,1,strata iii,5,kabupaten
+aceh tenggara,2020,1,strata iii,5,kabupaten
+aceh timur,2020,1,strata iii,11,kabupaten
+aceh tengah,2020,1,strata iii,7,kabupaten
+aceh barat,2020,1,strata iii,21,kabupaten
+aceh besar,2020,1,strata iii,224,kabupaten
+pidie,2020,1,strata iii,13,kabupaten
+aceh utara,2020,1,strata iii,36,kabupaten
+simeulue,2020,1,strata iii,6,kabupaten
+aceh singkil,2020,1,strata iii,2,kabupaten
+bireuen,2020,1,strata iii,61,kabupaten
+aceh barat daya,2020,1,strata iii,10,kabupaten
+gayo lues,2020,1,strata iii,1,kabupaten
+aceh jaya,2020,1,strata iii,0,kabupaten
+nagan raya,2020,1,strata iii,4,kabupaten
+aceh tamiang,2020,1,strata iii,7,kabupaten
+bener meriah,2020,1,strata iii,10,kabupaten
+pidie jaya,2020,1,strata iii,2,kabupaten
+banda aceh,2020,1,strata iii,418,kota
+sabang,2020,1,strata iii,0,kota
+lhokseumawe,2020,1,strata iii,49,kota
+langsa,2020,1,strata iii,47,kota
+subulussalam,2020,1,strata iii,3,kota
+aceh selatan,2021,1,tidak/belum sekolah,43927,kabupaten
+aceh tenggara,2021,1,tidak/belum sekolah,65196,kabupaten
+aceh timur,2021,1,tidak/belum sekolah,137747,kabupaten
+aceh tengah,2021,1,tidak/belum sekolah,66018,kabupaten
+aceh barat,2021,1,tidak/belum sekolah,40162,kabupaten
+aceh besar,2021,1,tidak/belum sekolah,85028,kabupaten
+pidie,2021,1,tidak/belum sekolah,90103,kabupaten
+aceh utara,2021,1,tidak/belum sekolah,133920,kabupaten
+simeulue,2021,1,tidak/belum sekolah,18974,kabupaten
+aceh singkil,2021,1,tidak/belum sekolah,45461,kabupaten
+bireuen,2021,1,tidak/belum sekolah,98963,kabupaten
+aceh barat daya,2021,1,tidak/belum sekolah,38701,kabupaten
+gayo lues,2021,1,tidak/belum sekolah,30627,kabupaten
+aceh jaya,2021,1,tidak/belum sekolah,19632,kabupaten
+nagan raya,2021,1,tidak/belum sekolah,40129,kabupaten
+aceh tamiang,2021,1,tidak/belum sekolah,100628,kabupaten
+bener meriah,2021,1,tidak/belum sekolah,46246,kabupaten
+pidie jaya,2021,1,tidak/belum sekolah,39784,kabupaten
+banda aceh,2021,1,tidak/belum sekolah,63561,kota
+sabang,2021,1,tidak/belum sekolah,9557,kota
+lhokseumawe,2021,1,tidak/belum sekolah,45810,kota
+langsa,2021,1,tidak/belum sekolah,53051,kota
+subulussalam,2021,1,tidak/belum sekolah,31887,kota
+aceh selatan,2021,1,belum tamat sd/sederajat,28390,kabupaten
+aceh tenggara,2021,1,belum tamat sd/sederajat,25531,kabupaten
+aceh timur,2021,1,belum tamat sd/sederajat,39915,kabupaten
+aceh tengah,2021,1,belum tamat sd/sederajat,21820,kabupaten
+aceh barat,2021,1,belum tamat sd/sederajat,25269,kabupaten
+aceh besar,2021,1,belum tamat sd/sederajat,52354,kabupaten
+pidie,2021,1,belum tamat sd/sederajat,61661,kabupaten
+aceh utara,2021,1,belum tamat sd/sederajat,77525,kabupaten
+simeulue,2021,1,belum tamat sd/sederajat,12357,kabupaten
+aceh singkil,2021,1,belum tamat sd/sederajat,20501,kabupaten
+bireuen,2021,1,belum tamat sd/sederajat,52414,kabupaten
+aceh barat daya,2021,1,belum tamat sd/sederajat,18097,kabupaten
+gayo lues,2021,1,belum tamat sd/sederajat,16808,kabupaten
+aceh jaya,2021,1,belum tamat sd/sederajat,12598,kabupaten
+nagan raya,2021,1,belum tamat sd/sederajat,19159,kabupaten
+aceh tamiang,2021,1,belum tamat sd/sederajat,34264,kabupaten
+bener meriah,2021,1,belum tamat sd/sederajat,17945,kabupaten
+pidie jaya,2021,1,belum tamat sd/sederajat,21694,kabupaten
+banda aceh,2021,1,belum tamat sd/sederajat,24345,kota
+sabang,2021,1,belum tamat sd/sederajat,5089,kota
+lhokseumawe,2021,1,belum tamat sd/sederajat,19061,kota
+langsa,2021,1,belum tamat sd/sederajat,15163,kota
+subulussalam,2021,1,belum tamat sd/sederajat,15488,kota
+aceh selatan,2021,1,tamat sd/sederajat,60229,kabupaten
+aceh tenggara,2021,1,tamat sd/sederajat,34403,kabupaten
+aceh timur,2021,1,tamat sd/sederajat,111437,kabupaten
+aceh tengah,2021,1,tamat sd/sederajat,35421,kabupaten
+aceh barat,2021,1,tamat sd/sederajat,41172,kabupaten
+aceh besar,2021,1,tamat sd/sederajat,58626,kabupaten
+pidie,2021,1,tamat sd/sederajat,65860,kabupaten
+aceh utara,2021,1,tamat sd/sederajat,130496,kabupaten
+simeulue,2021,1,tamat sd/sederajat,20202,kabupaten
+aceh singkil,2021,1,tamat sd/sederajat,21431,kabupaten
+bireuen,2021,1,tamat sd/sederajat,88208,kabupaten
+aceh barat daya,2021,1,tamat sd/sederajat,35743,kabupaten
+gayo lues,2021,1,tamat sd/sederajat,19272,kabupaten
+aceh jaya,2021,1,tamat sd/sederajat,23237,kabupaten
+nagan raya,2021,1,tamat sd/sederajat,37669,kabupaten
+aceh tamiang,2021,1,tamat sd/sederajat,63905,kabupaten
+bener meriah,2021,1,tamat sd/sederajat,28245,kabupaten
+pidie jaya,2021,1,tamat sd/sederajat,26412,kabupaten
+banda aceh,2021,1,tamat sd/sederajat,14229,kota
+sabang,2021,1,tamat sd/sederajat,5420,kota
+lhokseumawe,2021,1,tamat sd/sederajat,22210,kota
+langsa,2021,1,tamat sd/sederajat,25838,kota
+subulussalam,2021,1,tamat sd/sederajat,17343,kota
+aceh selatan,2021,1,sltp/sederajat,37120,kabupaten
+aceh tenggara,2021,1,sltp/sederajat,34351,kabupaten
+aceh timur,2021,1,sltp/sederajat,63794,kabupaten
+aceh tengah,2021,1,sltp/sederajat,30243,kabupaten
+aceh barat,2021,1,sltp/sederajat,26891,kabupaten
+aceh besar,2021,1,sltp/sederajat,55613,kabupaten
+pidie,2021,1,sltp/sederajat,70225,kabupaten
+aceh utara,2021,1,sltp/sederajat,88422,kabupaten
+simeulue,2021,1,sltp/sederajat,13794,kabupaten
+aceh singkil,2021,1,sltp/sederajat,14132,kabupaten
+bireuen,2021,1,sltp/sederajat,73775,kabupaten
+aceh barat daya,2021,1,sltp/sederajat,22211,kabupaten
+gayo lues,2021,1,sltp/sederajat,12028,kabupaten
+aceh jaya,2021,1,sltp/sederajat,14507,kabupaten
+nagan raya,2021,1,sltp/sederajat,24917,kabupaten
+aceh tamiang,2021,1,sltp/sederajat,37657,kabupaten
+bener meriah,2021,1,sltp/sederajat,25918,kabupaten
+pidie jaya,2021,1,sltp/sederajat,28525,kabupaten
+banda aceh,2021,1,sltp/sederajat,23354,kota
+sabang,2021,1,sltp/sederajat,5947,kota
+lhokseumawe,2021,1,sltp/sederajat,21802,kota
+langsa,2021,1,sltp/sederajat,23338,kota
+subulussalam,2021,1,sltp/sederajat,9903,kota
+aceh selatan,2021,1,slta/sederajat,50934,kabupaten
+aceh tenggara,2021,1,slta/sederajat,54920,kabupaten
+aceh timur,2021,1,slta/sederajat,60522,kabupaten
+aceh tengah,2021,1,slta/sederajat,48443,kabupaten
+aceh barat,2021,1,slta/sederajat,49104,kabupaten
+aceh besar,2021,1,slta/sederajat,111942,kabupaten
+pidie,2021,1,slta/sederajat,116749,kabupaten
+aceh utara,2021,1,slta/sederajat,138278,kabupaten
+simeulue,2021,1,slta/sederajat,20781,kabupaten
+aceh singkil,2021,1,slta/sederajat,21128,kabupaten
+bireuen,2021,1,slta/sederajat,100120,kabupaten
+aceh barat daya,2021,1,slta/sederajat,29277,kabupaten
+gayo lues,2021,1,slta/sederajat,15683,kabupaten
+aceh jaya,2021,1,slta/sederajat,18092,kabupaten
+nagan raya,2021,1,slta/sederajat,39543,kabupaten
+aceh tamiang,2021,1,slta/sederajat,50054,kabupaten
+bener meriah,2021,1,slta/sederajat,36023,kabupaten
+pidie jaya,2021,1,slta/sederajat,33426,kabupaten
+banda aceh,2021,1,slta/sederajat,73057,kota
+sabang,2021,1,slta/sederajat,12570,kota
+lhokseumawe,2021,1,slta/sederajat,65304,kota
+langsa,2021,1,slta/sederajat,50586,kota
+subulussalam,2021,1,slta/sederajat,14442,kota
+aceh selatan,2021,1,diploma i/ii,2386,kabupaten
+aceh tenggara,2021,1,diploma i/ii,1944,kabupaten
+aceh timur,2021,1,diploma i/ii,2355,kabupaten
+aceh tengah,2021,1,diploma i/ii,2432,kabupaten
+aceh barat,2021,1,diploma i/ii,2411,kabupaten
+aceh besar,2021,1,diploma i/ii,4783,kabupaten
+pidie,2021,1,diploma i/ii,3991,kabupaten
+aceh utara,2021,1,diploma i/ii,2527,kabupaten
+simeulue,2021,1,diploma i/ii,1216,kabupaten
+aceh singkil,2021,1,diploma i/ii,667,kabupaten
+bireuen,2021,1,diploma i/ii,4002,kabupaten
+aceh barat daya,2021,1,diploma i/ii,1670,kabupaten
+gayo lues,2021,1,diploma i/ii,896,kabupaten
+aceh jaya,2021,1,diploma i/ii,955,kabupaten
+nagan raya,2021,1,diploma i/ii,2024,kabupaten
+aceh tamiang,2021,1,diploma i/ii,1723,kabupaten
+bener meriah,2021,1,diploma i/ii,1576,kabupaten
+pidie jaya,2021,1,diploma i/ii,1321,kabupaten
+banda aceh,2021,1,diploma i/ii,3001,kota
+sabang,2021,1,diploma i/ii,315,kota
+lhokseumawe,2021,1,diploma i/ii,879,kota
+langsa,2021,1,diploma i/ii,1256,kota
+subulussalam,2021,1,diploma i/ii,596,kota
+aceh selatan,2021,1,akademi/diploma iii/s.muda,3225,kabupaten
+aceh tenggara,2021,1,akademi/diploma iii/s.muda,2631,kabupaten
+aceh timur,2021,1,akademi/diploma iii/s.muda,4138,kabupaten
+aceh tengah,2021,1,akademi/diploma iii/s.muda,3501,kabupaten
+aceh barat,2021,1,akademi/diploma iii/s.muda,3424,kabupaten
+aceh besar,2021,1,akademi/diploma iii/s.muda,10000,kabupaten
+pidie,2021,1,akademi/diploma iii/s.muda,7733,kabupaten
+aceh utara,2021,1,akademi/diploma iii/s.muda,6188,kabupaten
+simeulue,2021,1,akademi/diploma iii/s.muda,1887,kabupaten
+aceh singkil,2021,1,akademi/diploma iii/s.muda,1373,kabupaten
+bireuen,2021,1,akademi/diploma iii/s.muda,7159,kabupaten
+aceh barat daya,2021,1,akademi/diploma iii/s.muda,2167,kabupaten
+gayo lues,2021,1,akademi/diploma iii/s.muda,1409,kabupaten
+aceh jaya,2021,1,akademi/diploma iii/s.muda,1393,kabupaten
+nagan raya,2021,1,akademi/diploma iii/s.muda,2419,kabupaten
+aceh tamiang,2021,1,akademi/diploma iii/s.muda,3163,kabupaten
+bener meriah,2021,1,akademi/diploma iii/s.muda,2455,kabupaten
+pidie jaya,2021,1,akademi/diploma iii/s.muda,2514,kabupaten
+banda aceh,2021,1,akademi/diploma iii/s.muda,11111,kota
+sabang,2021,1,akademi/diploma iii/s.muda,998,kota
+lhokseumawe,2021,1,akademi/diploma iii/s.muda,4610,kota
+langsa,2021,1,akademi/diploma iii/s.muda,3343,kota
+subulussalam,2021,1,akademi/diploma iii/s.muda,933,kota
+aceh selatan,2021,1,diploma iv/strata i,9802,kabupaten
+aceh tenggara,2021,1,diploma iv/strata i,7953,kabupaten
+aceh timur,2021,1,diploma iv/strata i,8431,kabupaten
+aceh tengah,2021,1,diploma iv/strata i,10467,kabupaten
+aceh barat,2021,1,diploma iv/strata i,9290,kabupaten
+aceh besar,2021,1,diploma iv/strata i,26868,kabupaten
+pidie,2021,1,diploma iv/strata i,18518,kabupaten
+aceh utara,2021,1,diploma iv/strata i,15580,kabupaten
+simeulue,2021,1,diploma iv/strata i,4915,kabupaten
+aceh singkil,2021,1,diploma iv/strata i,4390,kabupaten
+bireuen,2021,1,diploma iv/strata i,18733,kabupaten
+aceh barat daya,2021,1,diploma iv/strata i,5026,kabupaten
+gayo lues,2021,1,diploma iv/strata i,4757,kabupaten
+aceh jaya,2021,1,diploma iv/strata i,4097,kabupaten
+nagan raya,2021,1,diploma iv/strata i,6321,kabupaten
+aceh tamiang,2021,1,diploma iv/strata i,8972,kabupaten
+bener meriah,2021,1,diploma iv/strata i,6381,kabupaten
+pidie jaya,2021,1,diploma iv/strata i,5994,kabupaten
+banda aceh,2021,1,diploma iv/strata i,33662,kota
+sabang,2021,1,diploma iv/strata i,2536,kota
+lhokseumawe,2021,1,diploma iv/strata i,10240,kota
+langsa,2021,1,diploma iv/strata i,12054,kota
+subulussalam,2021,1,diploma iv/strata i,3022,kota
+aceh selatan,2021,1,strata ii,302,kabupaten
+aceh tenggara,2021,1,strata ii,363,kabupaten
+aceh timur,2021,1,strata ii,228,kabupaten
+aceh tengah,2021,1,strata ii,590,kabupaten
+aceh barat,2021,1,strata ii,533,kabupaten
+aceh besar,2021,1,strata ii,2330,kabupaten
+pidie,2021,1,strata ii,638,kabupaten
+aceh utara,2021,1,strata ii,536,kabupaten
+simeulue,2021,1,strata ii,116,kabupaten
+aceh singkil,2021,1,strata ii,145,kabupaten
+bireuen,2021,1,strata ii,635,kabupaten
+aceh barat daya,2021,1,strata ii,164,kabupaten
+gayo lues,2021,1,strata ii,169,kabupaten
+aceh jaya,2021,1,strata ii,134,kabupaten
+nagan raya,2021,1,strata ii,176,kabupaten
+aceh tamiang,2021,1,strata ii,243,kabupaten
+bener meriah,2021,1,strata ii,165,kabupaten
+pidie jaya,2021,1,strata ii,157,kabupaten
+banda aceh,2021,1,strata ii,4523,kota
+sabang,2021,1,strata ii,127,kota
+lhokseumawe,2021,1,strata ii,935,kota
+langsa,2021,1,strata ii,985,kota
+subulussalam,2021,1,strata ii,93,kota
+aceh selatan,2021,1,strata iii,7,kabupaten
+aceh tenggara,2021,1,strata iii,5,kabupaten
+aceh timur,2021,1,strata iii,13,kabupaten
+aceh tengah,2021,1,strata iii,9,kabupaten
+aceh barat,2021,1,strata iii,22,kabupaten
+aceh besar,2021,1,strata iii,231,kabupaten
+pidie,2021,1,strata iii,14,kabupaten
+aceh utara,2021,1,strata iii,39,kabupaten
+simeulue,2021,1,strata iii,9,kabupaten
+aceh singkil,2021,1,strata iii,2,kabupaten
+bireuen,2021,1,strata iii,63,kabupaten
+aceh barat daya,2021,1,strata iii,11,kabupaten
+gayo lues,2021,1,strata iii,1,kabupaten
+aceh jaya,2021,1,strata iii,0,kabupaten
+nagan raya,2021,1,strata iii,6,kabupaten
+aceh tamiang,2021,1,strata iii,9,kabupaten
+bener meriah,2021,1,strata iii,10,kabupaten
+pidie jaya,2021,1,strata iii,2,kabupaten
+banda aceh,2021,1,strata iii,445,kota
+sabang,2021,1,strata iii,0,kota
+lhokseumawe,2021,1,strata iii,52,kota
+langsa,2021,1,strata iii,48,kota
+subulussalam,2021,1,strata iii,3,kota
+aceh selatan,2022,1,tidak/belum sekolah,45148,kabupaten
+aceh tenggara,2022,1,tidak/belum sekolah,69608,kabupaten
+aceh timur,2022,1,tidak/belum sekolah,143331,kabupaten
+aceh tengah,2022,1,tidak/belum sekolah,68335,kabupaten
+aceh barat,2022,1,tidak/belum sekolah,39648,kabupaten
+aceh besar,2022,1,tidak/belum sekolah,86498,kabupaten
+pidie,2022,1,tidak/belum sekolah,91300,kabupaten
+aceh utara,2022,1,tidak/belum sekolah,144787,kabupaten
+simeulue,2022,1,tidak/belum sekolah,19837,kabupaten
+aceh singkil,2022,1,tidak/belum sekolah,46145,kabupaten
+bireuen,2022,1,tidak/belum sekolah,101911,kabupaten
+aceh barat daya,2022,1,tidak/belum sekolah,39618,kabupaten
+gayo lues,2022,1,tidak/belum sekolah,29714,kabupaten
+aceh jaya,2022,1,tidak/belum sekolah,20188,kabupaten
+nagan raya,2022,1,tidak/belum sekolah,41101,kabupaten
+aceh tamiang,2022,1,tidak/belum sekolah,103569,kabupaten
+bener meriah,2022,1,tidak/belum sekolah,48045,kabupaten
+pidie jaya,2022,1,tidak/belum sekolah,41356,kabupaten
+banda aceh,2022,1,tidak/belum sekolah,65118,kota
+sabang,2022,1,tidak/belum sekolah,10266,kota
+lhokseumawe,2022,1,tidak/belum sekolah,49013,kota
+langsa,2022,1,tidak/belum sekolah,55501,kota
+subulussalam,2022,1,tidak/belum sekolah,33298,kota
+aceh selatan,2022,1,belum tamat sd/sederajat,27544,kabupaten
+aceh tenggara,2022,1,belum tamat sd/sederajat,24249,kabupaten
+aceh timur,2022,1,belum tamat sd/sederajat,37818,kabupaten
+aceh tengah,2022,1,belum tamat sd/sederajat,20253,kabupaten
+aceh barat,2022,1,belum tamat sd/sederajat,24944,kabupaten
+aceh besar,2022,1,belum tamat sd/sederajat,53546,kabupaten
+pidie,2022,1,belum tamat sd/sederajat,59714,kabupaten
+aceh utara,2022,1,belum tamat sd/sederajat,75683,kabupaten
+simeulue,2022,1,belum tamat sd/sederajat,12200,kabupaten
+aceh singkil,2022,1,belum tamat sd/sederajat,19572,kabupaten
+bireuen,2022,1,belum tamat sd/sederajat,49435,kabupaten
+aceh barat daya,2022,1,belum tamat sd/sederajat,17624,kabupaten
+gayo lues,2022,1,belum tamat sd/sederajat,17078,kabupaten
+aceh jaya,2022,1,belum tamat sd/sederajat,12455,kabupaten
+nagan raya,2022,1,belum tamat sd/sederajat,18960,kabupaten
+aceh tamiang,2022,1,belum tamat sd/sederajat,32306,kabupaten
+bener meriah,2022,1,belum tamat sd/sederajat,17296,kabupaten
+pidie jaya,2022,1,belum tamat sd/sederajat,21045,kabupaten
+banda aceh,2022,1,belum tamat sd/sederajat,24796,kota
+sabang,2022,1,belum tamat sd/sederajat,4946,kota
+lhokseumawe,2022,1,belum tamat sd/sederajat,17539,kota
+langsa,2022,1,belum tamat sd/sederajat,14497,kota
+subulussalam,2022,1,belum tamat sd/sederajat,15474,kota
+aceh selatan,2022,1,tamat sd/sederajat,57818,kabupaten
+aceh tenggara,2022,1,tamat sd/sederajat,33351,kabupaten
+aceh timur,2022,1,tamat sd/sederajat,110925,kabupaten
+aceh tengah,2022,1,tamat sd/sederajat,34613,kabupaten
+aceh barat,2022,1,tamat sd/sederajat,40127,kabupaten
+aceh besar,2022,1,tamat sd/sederajat,59884,kabupaten
+pidie,2022,1,tamat sd/sederajat,64398,kabupaten
+aceh utara,2022,1,tamat sd/sederajat,131807,kabupaten
+simeulue,2022,1,tamat sd/sederajat,19754,kabupaten
+aceh singkil,2022,1,tamat sd/sederajat,21207,kabupaten
+bireuen,2022,1,tamat sd/sederajat,86045,kabupaten
+aceh barat daya,2022,1,tamat sd/sederajat,34763,kabupaten
+gayo lues,2022,1,tamat sd/sederajat,19161,kabupaten
+aceh jaya,2022,1,tamat sd/sederajat,23232,kabupaten
+nagan raya,2022,1,tamat sd/sederajat,36450,kabupaten
+aceh tamiang,2022,1,tamat sd/sederajat,62585,kabupaten
+bener meriah,2022,1,tamat sd/sederajat,28056,kabupaten
+pidie jaya,2022,1,tamat sd/sederajat,25923,kabupaten
+banda aceh,2022,1,tamat sd/sederajat,13918,kota
+sabang,2022,1,tamat sd/sederajat,5279,kota
+lhokseumawe,2022,1,tamat sd/sederajat,21453,kota
+langsa,2022,1,tamat sd/sederajat,24936,kota
+subulussalam,2022,1,tamat sd/sederajat,17298,kota
+aceh selatan,2022,1,sltp/sederajat,36489,kabupaten
+aceh tenggara,2022,1,sltp/sederajat,33573,kabupaten
+aceh timur,2022,1,sltp/sederajat,64690,kabupaten
+aceh tengah,2022,1,sltp/sederajat,30093,kabupaten
+aceh barat,2022,1,sltp/sederajat,26872,kabupaten
+aceh besar,2022,1,sltp/sederajat,58693,kabupaten
+pidie,2022,1,sltp/sederajat,69973,kabupaten
+aceh utara,2022,1,sltp/sederajat,90797,kabupaten
+simeulue,2022,1,sltp/sederajat,13751,kabupaten
+aceh singkil,2022,1,sltp/sederajat,14134,kabupaten
+bireuen,2022,1,sltp/sederajat,73558,kabupaten
+aceh barat daya,2022,1,sltp/sederajat,22535,kabupaten
+gayo lues,2022,1,sltp/sederajat,12168,kabupaten
+aceh jaya,2022,1,sltp/sederajat,14510,kabupaten
+nagan raya,2022,1,sltp/sederajat,24673,kabupaten
+aceh tamiang,2022,1,sltp/sederajat,37190,kabupaten
+bener meriah,2022,1,sltp/sederajat,26320,kabupaten
+pidie jaya,2022,1,sltp/sederajat,28126,kabupaten
+banda aceh,2022,1,sltp/sederajat,23109,kota
+sabang,2022,1,sltp/sederajat,5819,kota
+lhokseumawe,2022,1,sltp/sederajat,21362,kota
+langsa,2022,1,sltp/sederajat,22617,kota
+subulussalam,2022,1,sltp/sederajat,10016,kota
+aceh selatan,2022,1,slta/sederajat,50993,kabupaten
+aceh tenggara,2022,1,slta/sederajat,54140,kabupaten
+aceh timur,2022,1,slta/sederajat,62510,kabupaten
+aceh tengah,2022,1,slta/sederajat,49015,kabupaten
+aceh barat,2022,1,slta/sederajat,50573,kabupaten
+aceh besar,2022,1,slta/sederajat,116871,kabupaten
+pidie,2022,1,slta/sederajat,120160,kabupaten
+aceh utara,2022,1,slta/sederajat,141177,kabupaten
+simeulue,2022,1,slta/sederajat,20703,kabupaten
+aceh singkil,2022,1,slta/sederajat,21743,kabupaten
+bireuen,2022,1,slta/sederajat,102709,kabupaten
+aceh barat daya,2022,1,slta/sederajat,29575,kabupaten
+gayo lues,2022,1,slta/sederajat,16245,kabupaten
+aceh jaya,2022,1,slta/sederajat,18830,kabupaten
+nagan raya,2022,1,slta/sederajat,40307,kabupaten
+aceh tamiang,2022,1,slta/sederajat,51354,kabupaten
+bener meriah,2022,1,slta/sederajat,37601,kabupaten
+pidie jaya,2022,1,slta/sederajat,33671,kabupaten
+banda aceh,2022,1,slta/sederajat,73353,kota
+sabang,2022,1,slta/sederajat,12421,kota
+lhokseumawe,2022,1,slta/sederajat,65167,kota
+langsa,2022,1,slta/sederajat,50326,kota
+subulussalam,2022,1,slta/sederajat,15214,kota
+aceh selatan,2022,1,diploma i/ii,2251,kabupaten
+aceh tenggara,2022,1,diploma i/ii,1904,kabupaten
+aceh timur,2022,1,diploma i/ii,2275,kabupaten
+aceh tengah,2022,1,diploma i/ii,2368,kabupaten
+aceh barat,2022,1,diploma i/ii,2369,kabupaten
+aceh besar,2022,1,diploma i/ii,4750,kabupaten
+pidie,2022,1,diploma i/ii,3903,kabupaten
+aceh utara,2022,1,diploma i/ii,2429,kabupaten
+simeulue,2022,1,diploma i/ii,1164,kabupaten
+aceh singkil,2022,1,diploma i/ii,648,kabupaten
+bireuen,2022,1,diploma i/ii,3890,kabupaten
+aceh barat daya,2022,1,diploma i/ii,1562,kabupaten
+gayo lues,2022,1,diploma i/ii,852,kabupaten
+aceh jaya,2022,1,diploma i/ii,917,kabupaten
+nagan raya,2022,1,diploma i/ii,1960,kabupaten
+aceh tamiang,2022,1,diploma i/ii,1706,kabupaten
+bener meriah,2022,1,diploma i/ii,1532,kabupaten
+pidie jaya,2022,1,diploma i/ii,1272,kabupaten
+banda aceh,2022,1,diploma i/ii,2917,kota
+sabang,2022,1,diploma i/ii,300,kota
+lhokseumawe,2022,1,diploma i/ii,860,kota
+langsa,2022,1,diploma i/ii,1219,kota
+subulussalam,2022,1,diploma i/ii,570,kota
+aceh selatan,2022,1,akademi/diploma iii/s.muda,3310,kabupaten
+aceh tenggara,2022,1,akademi/diploma iii/s.muda,2595,kabupaten
+aceh timur,2022,1,akademi/diploma iii/s.muda,4198,kabupaten
+aceh tengah,2022,1,akademi/diploma iii/s.muda,3535,kabupaten
+aceh barat,2022,1,akademi/diploma iii/s.muda,3574,kabupaten
+aceh besar,2022,1,akademi/diploma iii/s.muda,10510,kabupaten
+pidie,2022,1,akademi/diploma iii/s.muda,7789,kabupaten
+aceh utara,2022,1,akademi/diploma iii/s.muda,6263,kabupaten
+simeulue,2022,1,akademi/diploma iii/s.muda,1877,kabupaten
+aceh singkil,2022,1,akademi/diploma iii/s.muda,1416,kabupaten
+bireuen,2022,1,akademi/diploma iii/s.muda,7424,kabupaten
+aceh barat daya,2022,1,akademi/diploma iii/s.muda,2190,kabupaten
+gayo lues,2022,1,akademi/diploma iii/s.muda,1428,kabupaten
+aceh jaya,2022,1,akademi/diploma iii/s.muda,1428,kabupaten
+nagan raya,2022,1,akademi/diploma iii/s.muda,2462,kabupaten
+aceh tamiang,2022,1,akademi/diploma iii/s.muda,3239,kabupaten
+bener meriah,2022,1,akademi/diploma iii/s.muda,2531,kabupaten
+pidie jaya,2022,1,akademi/diploma iii/s.muda,2530,kabupaten
+banda aceh,2022,1,akademi/diploma iii/s.muda,11066,kota
+sabang,2022,1,akademi/diploma iii/s.muda,1102,kota
+lhokseumawe,2022,1,akademi/diploma iii/s.muda,4646,kota
+langsa,2022,1,akademi/diploma iii/s.muda,3365,kota
+subulussalam,2022,1,akademi/diploma iii/s.muda,1021,kota
+aceh selatan,2022,1,diploma iv/strata i,10290,kabupaten
+aceh tenggara,2022,1,diploma iv/strata i,8117,kabupaten
+aceh timur,2022,1,diploma iv/strata i,8921,kabupaten
+aceh tengah,2022,1,diploma iv/strata i,10899,kabupaten
+aceh barat,2022,1,diploma iv/strata i,10127,kabupaten
+aceh besar,2022,1,diploma iv/strata i,31204,kabupaten
+pidie,2022,1,diploma iv/strata i,18897,kabupaten
+aceh utara,2022,1,diploma iv/strata i,16156,kabupaten
+simeulue,2022,1,diploma iv/strata i,5145,kabupaten
+aceh singkil,2022,1,diploma iv/strata i,4657,kabupaten
+bireuen,2022,1,diploma iv/strata i,19782,kabupaten
+aceh barat daya,2022,1,diploma iv/strata i,5460,kabupaten
+gayo lues,2022,1,diploma iv/strata i,5133,kabupaten
+aceh jaya,2022,1,diploma iv/strata i,4341,kabupaten
+nagan raya,2022,1,diploma iv/strata i,6716,kabupaten
+aceh tamiang,2022,1,diploma iv/strata i,9569,kabupaten
+bener meriah,2022,1,diploma iv/strata i,6893,kabupaten
+pidie jaya,2022,1,diploma iv/strata i,6180,kabupaten
+banda aceh,2022,1,diploma iv/strata i,34617,kota
+sabang,2022,1,diploma iv/strata i,2602,kota
+lhokseumawe,2022,1,diploma iv/strata i,10606,kota
+langsa,2022,1,diploma iv/strata i,12536,kota
+subulussalam,2022,1,diploma iv/strata i,3293,kota
+aceh selatan,2022,1,strata ii,318,kabupaten
+aceh tenggara,2022,1,strata ii,379,kabupaten
+aceh timur,2022,1,strata ii,248,kabupaten
+aceh tengah,2022,1,strata ii,622,kabupaten
+aceh barat,2022,1,strata ii,599,kabupaten
+aceh besar,2022,1,strata ii,282,kabupaten
+pidie,2022,1,strata ii,649,kabupaten
+aceh utara,2022,1,strata ii,569,kabupaten
+simeulue,2022,1,strata ii,122,kabupaten
+aceh singkil,2022,1,strata ii,150,kabupaten
+bireuen,2022,1,strata ii,685,kabupaten
+aceh barat daya,2022,1,strata ii,180,kabupaten
+gayo lues,2022,1,strata ii,175,kabupaten
+aceh jaya,2022,1,strata ii,146,kabupaten
+nagan raya,2022,1,strata ii,191,kabupaten
+aceh tamiang,2022,1,strata ii,272,kabupaten
+bener meriah,2022,1,strata ii,183,kabupaten
+pidie jaya,2022,1,strata ii,167,kabupaten
+banda aceh,2022,1,strata ii,4673,kota
+sabang,2022,1,strata ii,131,kota
+lhokseumawe,2022,1,strata ii,987,kota
+langsa,2022,1,strata ii,1024,kota
+subulussalam,2022,1,strata ii,109,kota
+aceh selatan,2022,1,strata iii,8,kabupaten
+aceh tenggara,2022,1,strata iii,5,kabupaten
+aceh timur,2022,1,strata iii,13,kabupaten
+aceh tengah,2022,1,strata iii,11,kabupaten
+aceh barat,2022,1,strata iii,25,kabupaten
+aceh besar,2022,1,strata iii,3,kabupaten
+pidie,2022,1,strata iii,13,kabupaten
+aceh utara,2022,1,strata iii,37,kabupaten
+simeulue,2022,1,strata iii,7,kabupaten
+aceh singkil,2022,1,strata iii,2,kabupaten
+bireuen,2022,1,strata iii,64,kabupaten
+aceh barat daya,2022,1,strata iii,8,kabupaten
+gayo lues,2022,1,strata iii,1,kabupaten
+aceh jaya,2022,1,strata iii,2,kabupaten
+nagan raya,2022,1,strata iii,7,kabupaten
+aceh tamiang,2022,1,strata iii,10,kabupaten
+bener meriah,2022,1,strata iii,12,kabupaten
+pidie jaya,2022,1,strata iii,2,kabupaten
+banda aceh,2022,1,strata iii,457,kota
+sabang,2022,1,strata iii,1,kota
+lhokseumawe,2022,1,strata iii,55,kota
+langsa,2022,1,strata iii,54,kota
+subulussalam,2022,1,strata iii,3,kota
+kab. aceh selatan,2020,2,tidak/belum sekolah,43721,kota
+kab. aceh tenggara,2020,2,tidak/belum sekolah,63470,kota
+kab. aceh timur,2020,2,tidak/belum sekolah,135495,kota
+kab. aceh tengah,2020,2,tidak/belum sekolah,64113,kota
+kab. aceh barat,2020,2,tidak/belum sekolah,40289,kota
+kab. aceh besar,2020,2,tidak/belum sekolah,84398,kota
+kab. pidie,2020,2,tidak/belum sekolah,88240,kota
+kab. aceh utara,2020,2,tidak/belum sekolah,130430,kota
+kab. simeulue,2020,2,tidak/belum sekolah,18562,kota
+kab. aceh singkil,2020,2,tidak/belum sekolah,44945,kota
+kab. bireuen,2020,2,tidak/belum sekolah,96023,kota
+kab. aceh barat daya,2020,2,tidak/belum sekolah,37957,kota
+kab. gayo lues,2020,2,tidak/belum sekolah,30720,kota
+kab. aceh jaya,2020,2,tidak/belum sekolah,19432,kota
+kab. nagan raya,2020,2,tidak/belum sekolah,40299,kota
+kab. aceh tamiang,2020,2,tidak/belum sekolah,98948,kota
+kab. bener meriah,2020,2,tidak/belum sekolah,46138,kota
+kab. pidie jaya,2020,2,tidak/belum sekolah,38734,kota
+banda aceh,2020,2,tidak/belum sekolah,62364,kota
+sabang,2020,2,tidak/belum sekolah,9228,kota
+lhokseumawe,2020,2,tidak/belum sekolah,44574,kota
+langsa,2020,2,tidak/belum sekolah,52005,kota
+subulussalam,2020,2,tidak/belum sekolah,30639,kota
+kab. aceh selatan,2020,2,belum tamat sd/sederajat,28643,kota
+kab. aceh tenggara,2020,2,belum tamat sd/sederajat,26419,kota
+kab. aceh timur,2020,2,belum tamat sd/sederajat,41991,kota
+kab. aceh tengah,2020,2,belum tamat sd/sederajat,21991,kota
+kab. aceh barat,2020,2,belum tamat sd/sederajat,25379,kota
+kab. aceh besar,2020,2,belum tamat sd/sederajat,52078,kota
+kab. pidie,2020,2,belum tamat sd/sederajat,62006,kota
+kab. aceh utara,2020,2,belum tamat sd/sederajat,78771,kota
+kab. simeulue,2020,2,belum tamat sd/sederajat,12413,kota
+kab. aceh singkil,2020,2,belum tamat sd/sederajat,20466,kota
+kab. bireuen,2020,2,belum tamat sd/sederajat,53168,kota
+kab. aceh barat daya,2020,2,belum tamat sd/sederajat,18551,kota
+kab. gayo lues,2020,2,belum tamat sd/sederajat,16921,kota
+kab. aceh jaya,2020,2,belum tamat sd/sederajat,12416,kota
+kab. nagan raya,2020,2,belum tamat sd/sederajat,19163,kota
+kab. aceh tamiang,2020,2,belum tamat sd/sederajat,35023,kota
+kab. bener meriah,2020,2,belum tamat sd/sederajat,17419,kota
+kab. pidie jaya,2020,2,belum tamat sd/sederajat,21858,kota
+banda aceh,2020,2,belum tamat sd/sederajat,24179,kota
+sabang,2020,2,belum tamat sd/sederajat,5158,kota
+lhokseumawe,2020,2,belum tamat sd/sederajat,19549,kota
+langsa,2020,2,belum tamat sd/sederajat,15510,kota
+subulussalam,2020,2,belum tamat sd/sederajat,15156,kota
+kab. aceh selatan,2020,2,tamat sd/sederajat,61685,kota
+kab. aceh tenggara,2020,2,tamat sd/sederajat,34618,kota
+kab. aceh timur,2020,2,tamat sd/sederajat,111699,kota
+kab. aceh tengah,2020,2,tamat sd/sederajat,35529,kota
+kab. aceh barat,2020,2,tamat sd/sederajat,41553,kota
+kab. aceh besar,2020,2,tamat sd/sederajat,58618,kota
+kab. pidie,2020,2,tamat sd/sederajat,69270,kota
+kab. aceh utara,2020,2,tamat sd/sederajat,131457,kota
+kab. simeulue,2020,2,tamat sd/sederajat,20394,kota
+kab. aceh singkil,2020,2,tamat sd/sederajat,21459,kota
+kab. bireuen,2020,2,tamat sd/sederajat,90481,kota
+kab. aceh barat daya,2020,2,tamat sd/sederajat,36254,kota
+kab. gayo lues,2020,2,tamat sd/sederajat,19444,kota
+kab. aceh jaya,2020,2,tamat sd/sederajat,23043,kota
+kab. nagan raya,2020,2,tamat sd/sederajat,38111,kota
+kab. aceh tamiang,2020,2,tamat sd/sederajat,64618,kota
+kab. bener meriah,2020,2,tamat sd/sederajat,27955,kota
+kab. pidie jaya,2020,2,tamat sd/sederajat,27292,kota
+banda aceh,2020,2,tamat sd/sederajat,14250,kota
+sabang,2020,2,tamat sd/sederajat,5532,kota
+lhokseumawe,2020,2,tamat sd/sederajat,22632,kota
+langsa,2020,2,tamat sd/sederajat,27008,kota
+subulussalam,2020,2,tamat sd/sederajat,17175,kota
+kab. aceh selatan,2020,2,sltp/sederajat,37298,kota
+kab. aceh tenggara,2020,2,sltp/sederajat,34765,kota
+kab. aceh timur,2020,2,sltp/sederajat,63191,kota
+kab. aceh tengah,2020,2,sltp/sederajat,30270,kota
+kab. aceh barat,2020,2,sltp/sederajat,26659,kota
+kab. aceh besar,2020,2,sltp/sederajat,55048,kota
+kab. pidie,2020,2,sltp/sederajat,73481,kota
+kab. aceh utara,2020,2,sltp/sederajat,88285,kota
+kab. simeulue,2020,2,sltp/sederajat,13866,kota
+kab. aceh singkil,2020,2,sltp/sederajat,13872,kota
+kab. bireuen,2020,2,sltp/sederajat,73627,kota
+kab. aceh barat daya,2020,2,sltp/sederajat,21994,kota
+kab. gayo lues,2020,2,sltp/sederajat,11920,kota
+kab. aceh jaya,2020,2,sltp/sederajat,14200,kota
+kab. nagan raya,2020,2,sltp/sederajat,24928,kota
+kab. aceh tamiang,2020,2,sltp/sederajat,37829,kota
+kab. bener meriah,2020,2,sltp/sederajat,25375,kota
+kab. pidie jaya,2020,2,sltp/sederajat,29747,kota
+banda aceh,2020,2,sltp/sederajat,23353,kota
+sabang,2020,2,sltp/sederajat,6016,kota
+lhokseumawe,2020,2,sltp/sederajat,22006,kota
+langsa,2020,2,sltp/sederajat,24175,kota
+subulussalam,2020,2,sltp/sederajat,9799,kota
+kab. aceh selatan,2020,2,slta/sederajat,50370,kota
+kab. aceh tenggara,2020,2,slta/sederajat,55045,kota
+kab. aceh timur,2020,2,slta/sederajat,59166,kota
+kab. aceh tengah,2020,2,slta/sederajat,47459,kota
+kab. aceh barat,2020,2,slta/sederajat,47745,kota
+kab. aceh besar,2020,2,slta/sederajat,110437,kota
+kab. pidie,2020,2,slta/sederajat,119905,kota
+kab. aceh utara,2020,2,slta/sederajat,137330,kota
+kab. simeulue,2020,2,slta/sederajat,20840,kota
+kab. aceh singkil,2020,2,slta/sederajat,20598,kota
+kab. bireuen,2020,2,slta/sederajat,99589,kota
+kab. aceh barat daya,2020,2,slta/sederajat,29293,kota
+kab. gayo lues,2020,2,slta/sederajat,15446,kota
+kab. aceh jaya,2020,2,slta/sederajat,17434,kota
+kab. nagan raya,2020,2,slta/sederajat,39044,kota
+kab. aceh tamiang,2020,2,slta/sederajat,49388,kota
+kab. bener meriah,2020,2,slta/sederajat,34527,kota
+kab. pidie jaya,2020,2,slta/sederajat,34493,kota
+banda aceh,2020,2,slta/sederajat,72916,kota
+sabang,2020,2,slta/sederajat,12634,kota
+lhokseumawe,2020,2,slta/sederajat,65237,kota
+langsa,2020,2,slta/sederajat,51758,kota
+subulussalam,2020,2,slta/sederajat,14133,kota
+kab. aceh selatan,2020,2,diploma i/ii,2464,kota
+kab. aceh tenggara,2020,2,diploma i/ii,2009,kota
+kab. aceh timur,2020,2,diploma i/ii,2377,kota
+kab. aceh tengah,2020,2,diploma i/ii,2456,kota
+kab. aceh barat,2020,2,diploma i/ii,2423,kota
+kab. aceh besar,2020,2,diploma i/ii,4809,kota
+kab. pidie,2020,2,diploma i/ii,4187,kota
+kab. aceh utara,2020,2,diploma i/ii,2546,kota
+kab. simeulue,2020,2,diploma i/ii,1231,kota
+kab. aceh singkil,2020,2,diploma i/ii,687,kota
+kab. bireuen,2020,2,diploma i/ii,4068,kota
+kab. aceh barat daya,2020,2,diploma i/ii,1709,kota
+kab. gayo lues,2020,2,diploma i/ii,917,kota
+kab. aceh jaya,2020,2,diploma i/ii,962,kota
+kab. nagan raya,2020,2,diploma i/ii,2042,kota
+kab. aceh tamiang,2020,2,diploma i/ii,1752,kota
+kab. bener meriah,2020,2,diploma i/ii,1586,kota
+kab. pidie jaya,2020,2,diploma i/ii,1385,kota
+banda aceh,2020,2,diploma i/ii,3014,kota
+sabang,2020,2,diploma i/ii,317,kota
+lhokseumawe,2020,2,diploma i/ii,889,kota
+langsa,2020,2,diploma i/ii,1311,kota
+subulussalam,2020,2,diploma i/ii,601,kota
+kab. aceh selatan,2020,2,akademi/diploma iii/s.muda,3244,kota
+kab. aceh tenggara,2020,2,akademi/diploma iii/s.muda,2634,kota
+kab. aceh timur,2020,2,akademi/diploma iii/s.muda,4089,kota
+kab. aceh tengah,2020,2,akademi/diploma iii/s.muda,3450,kota
+kab. aceh barat,2020,2,akademi/diploma iii/s.muda,3361,kota
+kab. aceh besar,2020,2,akademi/diploma iii/s.muda,9785,kota
+kab. pidie,2020,2,akademi/diploma iii/s.muda,7855,kota
+kab. aceh utara,2020,2,akademi/diploma iii/s.muda,6080,kota
+kab. simeulue,2020,2,akademi/diploma iii/s.muda,1897,kota
+kab. aceh singkil,2020,2,akademi/diploma iii/s.muda,1340,kota
+kab. bireuen,2020,2,akademi/diploma iii/s.muda,7106,kota
+kab. aceh barat daya,2020,2,akademi/diploma iii/s.muda,2164,kota
+kab. gayo lues,2020,2,akademi/diploma iii/s.muda,1417,kota
+kab. aceh jaya,2020,2,akademi/diploma iii/s.muda,1325,kota
+kab. nagan raya,2020,2,akademi/diploma iii/s.muda,2385,kota
+kab. aceh tamiang,2020,2,akademi/diploma iii/s.muda,3104,kota
+kab. bener meriah,2020,2,akademi/diploma iii/s.muda,2414,kota
+kab. pidie jaya,2020,2,akademi/diploma iii/s.muda,2549,kota
+banda aceh,2020,2,akademi/diploma iii/s.muda,10988,kota
+sabang,2020,2,akademi/diploma iii/s.muda,986,kota
+lhokseumawe,2020,2,akademi/diploma iii/s.muda,4559,kota
+langsa,2020,2,akademi/diploma iii/s.muda,3410,kota
+subulussalam,2020,2,akademi/diploma iii/s.muda,915,kota
+kab. aceh selatan,2020,2,diploma iv/strata i,9606,kota
+kab. aceh tenggara,2020,2,diploma iv/strata i,7855,kota
+kab. aceh timur,2020,2,diploma iv/strata i,8164,kota
+kab. aceh tengah,2020,2,diploma iv/strata i,10225,kota
+kab. aceh barat,2020,2,diploma iv/strata i,8911,kota
+kab. aceh besar,2020,2,diploma iv/strata i,26076,kota
+kab. pidie,2020,2,diploma iv/strata i,18562,kota
+kab. aceh utara,2020,2,diploma iv/strata i,15084,kota
+kab. simeulue,2020,2,diploma iv/strata i,4821,kota
+kab. aceh singkil,2020,2,diploma iv/strata i,4218,kota
+kab. bireuen,2020,2,diploma iv/strata i,18226,kota
+kab. aceh barat daya,2020,2,diploma iv/strata i,4849,kota
+kab. gayo lues,2020,2,diploma iv/strata i,4590,kota
+kab. aceh jaya,2020,2,diploma iv/strata i,3849,kota
+kab. nagan raya,2020,2,diploma iv/strata i,6110,kota
+kab. aceh tamiang,2020,2,diploma iv/strata i,8583,kota
+kab. bener meriah,2020,2,diploma iv/strata i,6056,kota
+kab. pidie jaya,2020,2,diploma iv/strata i,5957,kota
+banda aceh,2020,2,diploma iv/strata i,32960,kota
+sabang,2020,2,diploma iv/strata i,2466,kota
+lhokseumawe,2020,2,diploma iv/strata i,10061,kota
+langsa,2020,2,diploma iv/strata i,12048,kota
+subulussalam,2020,2,diploma iv/strata i,2909,kota
+kab. aceh selatan,2020,2,strata ii,290,kota
+kab. aceh tenggara,2020,2,strata ii,354,kota
+kab. aceh timur,2020,2,strata ii,215,kota
+kab. aceh tengah,2020,2,strata ii,571,kota
+kab. aceh barat,2020,2,strata ii,493,kota
+kab. aceh besar,2020,2,strata ii,2237,kota
+kab. pidie,2020,2,strata ii,630,kota
+kab. aceh utara,2020,2,strata ii,514,kota
+kab. simeulue,2020,2,strata ii,115,kota
+kab. aceh singkil,2020,2,strata ii,124,kota
+kab. bireuen,2020,2,strata ii,603,kota
+kab. aceh barat daya,2020,2,strata ii,167,kota
+kab. gayo lues,2020,2,strata ii,164,kota
+kab. aceh jaya,2020,2,strata ii,120,kota
+kab. nagan raya,2020,2,strata ii,170,kota
+kab. aceh tamiang,2020,2,strata ii,234,kota
+kab. bener meriah,2020,2,strata ii,147,kota
+kab. pidie jaya,2020,2,strata ii,157,kota
+banda aceh,2020,2,strata ii,4442,kota
+sabang,2020,2,strata ii,120,kota
+lhokseumawe,2020,2,strata ii,924,kota
+langsa,2020,2,strata ii,974,kota
+subulussalam,2020,2,strata ii,93,kota
+kab. aceh selatan,2020,2,strata iii,5,kota
+kab. aceh tenggara,2020,2,strata iii,5,kota
+kab. aceh timur,2020,2,strata iii,11,kota
+kab. aceh tengah,2020,2,strata iii,8,kota
+kab. aceh barat,2020,2,strata iii,21,kota
+kab. aceh besar,2020,2,strata iii,225,kota
+kab. pidie,2020,2,strata iii,13,kota
+kab. aceh utara,2020,2,strata iii,39,kota
+kab. simeulue,2020,2,strata iii,7,kota
+kab. aceh singkil,2020,2,strata iii,2,kota
+kab. bireuen,2020,2,strata iii,62,kota
+kab. aceh barat daya,2020,2,strata iii,11,kota
+kab. gayo lues,2020,2,strata iii,1,kota
+kab. aceh jaya,2020,2,strata iii,0,kota
+kab. nagan raya,2020,2,strata iii,5,kota
+kab. aceh tamiang,2020,2,strata iii,8,kota
+kab. bener meriah,2020,2,strata iii,10,kota
+kab. pidie jaya,2020,2,strata iii,2,kota
+banda aceh,2020,2,strata iii,426,kota
+sabang,2020,2,strata iii,0,kota
+lhokseumawe,2020,2,strata iii,48,kota
+langsa,2020,2,strata iii,45,kota
+subulussalam,2020,2,strata iii,3,kota
+kab. aceh selatan,2021,2,tidak/belum sekolah,44236,kota
+kab. aceh tenggara,2021,2,tidak/belum sekolah,67362,kota
+kab. aceh timur,2021,2,tidak/belum sekolah,139605,kota
+kab. aceh tengah,2021,2,tidak/belum sekolah,67072,kota
+kab. aceh barat,2021,2,tidak/belum sekolah,39999,kota
+kab. aceh besar,2021,2,tidak/belum sekolah,86159,kota
+kab. pidie,2021,2,tidak/belum sekolah,90938,kota
+kab. aceh utara,2021,2,tidak/belum sekolah,139360,kota
+kab. simeulue,2021,2,tidak/belum sekolah,19379,kota
+kab. aceh singkil,2021,2,tidak/belum sekolah,45465,kota
+kab. bireuen,2021,2,tidak/belum sekolah,102487,kota
+kab. aceh barat daya,2021,2,tidak/belum sekolah,38654,kota
+kab. gayo lues,2021,2,tidak/belum sekolah,30051,kota
+kab. aceh jaya,2021,2,tidak/belum sekolah,19756,kota
+kab. nagan raya,2021,2,tidak/belum sekolah,40302,kota
+kab. aceh tamiang,2021,2,tidak/belum sekolah,101962,kota
+kab. bener meriah,2021,2,tidak/belum sekolah,46939,kota
+kab. pidie jaya,2021,2,tidak/belum sekolah,40434,kota
+banda aceh,2021,2,tidak/belum sekolah,64691,kota
+sabang,2021,2,tidak/belum sekolah,9877,kota
+lhokseumawe,2021,2,tidak/belum sekolah,47173,kota
+langsa,2021,2,tidak/belum sekolah,54245,kota
+subulussalam,2021,2,tidak/belum sekolah,32374,kota
+kab. aceh selatan,2021,2,belum tamat sd/sederajat,27935,kota
+kab. aceh tenggara,2021,2,belum tamat sd/sederajat,24887,kota
+kab. aceh timur,2021,2,belum tamat sd/sederajat,37610,kota
+kab. aceh tengah,2021,2,belum tamat sd/sederajat,20919,kota
+kab. aceh barat,2021,2,belum tamat sd/sederajat,24974,kota
+kab. aceh besar,2021,2,belum tamat sd/sederajat,53476,kota
+kab. pidie,2021,2,belum tamat sd/sederajat,60445,kota
+kab. aceh utara,2021,2,belum tamat sd/sederajat,75758,kota
+kab. simeulue,2021,2,belum tamat sd/sederajat,12267,kota
+kab. aceh singkil,2021,2,belum tamat sd/sederajat,20015,kota
+kab. bireuen,2021,2,belum tamat sd/sederajat,50386,kota
+kab. aceh barat daya,2021,2,belum tamat sd/sederajat,17990,kota
+kab. gayo lues,2021,2,belum tamat sd/sederajat,16913,kota
+kab. aceh jaya,2021,2,belum tamat sd/sederajat,12346,kota
+kab. nagan raya,2021,2,belum tamat sd/sederajat,19100,kota
+kab. aceh tamiang,2021,2,belum tamat sd/sederajat,33308,kota
+kab. bener meriah,2021,2,belum tamat sd/sederajat,17417,kota
+kab. pidie jaya,2021,2,belum tamat sd/sederajat,21215,kota
+banda aceh,2021,2,belum tamat sd/sederajat,24289,kota
+sabang,2021,2,belum tamat sd/sederajat,4995,kota
+lhokseumawe,2021,2,belum tamat sd/sederajat,18180,kota
+langsa,2021,2,belum tamat sd/sederajat,14755,kota
+subulussalam,2021,2,belum tamat sd/sederajat,15384,kota
+kab. aceh selatan,2021,2,tamat sd/sederajat,59419,kota
+kab. aceh tenggara,2021,2,tamat sd/sederajat,33905,kota
+kab. aceh timur,2021,2,tamat sd/sederajat,110826,kota
+kab. aceh tengah,2021,2,tamat sd/sederajat,35067,kota
+kab. aceh barat,2021,2,tamat sd/sederajat,40601,kota
+kab. aceh besar,2021,2,tamat sd/sederajat,59693,kota
+kab. pidie,2021,2,tamat sd/sederajat,65269,kota
+kab. aceh utara,2021,2,tamat sd/sederajat,131370,kota
+kab. simeulue,2021,2,tamat sd/sederajat,20016,kota
+kab. aceh singkil,2021,2,tamat sd/sederajat,21392,kota
+kab. bireuen,2021,2,tamat sd/sederajat,86232,kota
+kab. aceh barat daya,2021,2,tamat sd/sederajat,35476,kota
+kab. gayo lues,2021,2,tamat sd/sederajat,19170,kota
+kab. aceh jaya,2021,2,tamat sd/sederajat,23109,kota
+kab. nagan raya,2021,2,tamat sd/sederajat,37120,kota
+kab. aceh tamiang,2021,2,tamat sd/sederajat,63265,kota
+kab. bener meriah,2021,2,tamat sd/sederajat,28114,kota
+kab. pidie jaya,2021,2,tamat sd/sederajat,26269,kota
+banda aceh,2021,2,tamat sd/sederajat,13937,kota
+sabang,2021,2,tamat sd/sederajat,5440,kota
+lhokseumawe,2021,2,tamat sd/sederajat,21859,kota
+langsa,2021,2,tamat sd/sederajat,25330,kota
+subulussalam,2021,2,tamat sd/sederajat,17306,kota
+kab. aceh selatan,2021,2,sltp/sederajat,37141,kota
+kab. aceh tenggara,2021,2,sltp/sederajat,33854,kota
+kab. aceh timur,2021,2,sltp/sederajat,64248,kota
+kab. aceh tengah,2021,2,sltp/sederajat,30316,kota
+kab. aceh barat,2021,2,sltp/sederajat,26853,kota
+kab. aceh besar,2021,2,sltp/sederajat,57444,kota
+kab. pidie,2021,2,sltp/sederajat,69797,kota
+kab. aceh utara,2021,2,sltp/sederajat,88708,kota
+kab. simeulue,2021,2,sltp/sederajat,13719,kota
+kab. aceh singkil,2021,2,sltp/sederajat,14129,kota
+kab. bireuen,2021,2,sltp/sederajat,73418,kota
+kab. aceh barat daya,2021,2,sltp/sederajat,22300,kota
+kab. gayo lues,2021,2,sltp/sederajat,12157,kota
+kab. aceh jaya,2021,2,sltp/sederajat,14423,kota
+kab. nagan raya,2021,2,sltp/sederajat,24826,kota
+kab. aceh tamiang,2021,2,sltp/sederajat,37408,kota
+kab. bener meriah,2021,2,sltp/sederajat,26150,kota
+kab. pidie jaya,2021,2,sltp/sederajat,28353,kota
+banda aceh,2021,2,sltp/sederajat,23249,kota
+sabang,2021,2,sltp/sederajat,5898,kota
+lhokseumawe,2021,2,sltp/sederajat,21532,kota
+langsa,2021,2,sltp/sederajat,22956,kota
+subulussalam,2021,2,sltp/sederajat,9911,kota
+kab. aceh selatan,2021,2,slta/sederajat,51649,kota
+kab. aceh tenggara,2021,2,slta/sederajat,54530,kota
+kab. aceh timur,2021,2,slta/sederajat,61412,kota
+kab. aceh tengah,2021,2,slta/sederajat,48481,kota
+kab. aceh barat,2021,2,slta/sederajat,49786,kota
+kab. aceh besar,2021,2,slta/sederajat,114313,kota
+kab. pidie,2021,2,slta/sederajat,118315,kota
+kab. aceh utara,2021,2,slta/sederajat,139817,kota
+kab. simeulue,2021,2,slta/sederajat,20753,kota
+kab. aceh singkil,2021,2,slta/sederajat,21563,kota
+kab. bireuen,2021,2,slta/sederajat,100723,kota
+kab. aceh barat daya,2021,2,slta/sederajat,29497,kota
+kab. gayo lues,2021,2,slta/sederajat,16049,kota
+kab. aceh jaya,2021,2,slta/sederajat,18459,kota
+kab. nagan raya,2021,2,slta/sederajat,39999,kota
+kab. aceh tamiang,2021,2,slta/sederajat,50490,kota
+kab. bener meriah,2021,2,slta/sederajat,36940,kota
+kab. pidie jaya,2021,2,slta/sederajat,33589,kota
+banda aceh,2021,2,slta/sederajat,73521,kota
+sabang,2021,2,slta/sederajat,12490,kota
+lhokseumawe,2021,2,slta/sederajat,65343,kota
+langsa,2021,2,slta/sederajat,50542,kota
+subulussalam,2021,2,slta/sederajat,14796,kota
+kab. aceh selatan,2021,2,diploma i/ii,2339,kota
+kab. aceh tenggara,2021,2,diploma i/ii,1936,kota
+kab. aceh timur,2021,2,diploma i/ii,2314,kota
+kab. aceh tengah,2021,2,diploma i/ii,2407,kota
+kab. aceh barat,2021,2,diploma i/ii,2381,kota
+kab. aceh besar,2021,2,diploma i/ii,4776,kota
+kab. pidie,2021,2,diploma i/ii,3944,kota
+kab. aceh utara,2021,2,diploma i/ii,2484,kota
+kab. simeulue,2021,2,diploma i/ii,1189,kota
+kab. aceh singkil,2021,2,diploma i/ii,653,kota
+kab. bireuen,2021,2,diploma i/ii,3933,kota
+kab. aceh barat daya,2021,2,diploma i/ii,1601,kota
+kab. gayo lues,2021,2,diploma i/ii,878,kota
+kab. aceh jaya,2021,2,diploma i/ii,934,kota
+kab. nagan raya,2021,2,diploma i/ii,1999,kota
+kab. aceh tamiang,2021,2,diploma i/ii,1717,kota
+kab. bener meriah,2021,2,diploma i/ii,1565,kota
+kab. pidie jaya,2021,2,diploma i/ii,1303,kota
+banda aceh,2021,2,diploma i/ii,2945,kota
+sabang,2021,2,diploma i/ii,303,kota
+lhokseumawe,2021,2,diploma i/ii,878,kota
+langsa,2021,2,diploma i/ii,1238,kota
+subulussalam,2021,2,diploma i/ii,584,kota
+kab. aceh selatan,2021,2,akademi/diploma iii/s.muda,3312,kota
+kab. aceh tenggara,2021,2,akademi/diploma iii/s.muda,2610,kota
+kab. aceh timur,2021,2,akademi/diploma iii/s.muda,4166,kota
+kab. aceh tengah,2021,2,akademi/diploma iii/s.muda,3517,kota
+kab. aceh barat,2021,2,akademi/diploma iii/s.muda,3502,kota
+kab. aceh besar,2021,2,akademi/diploma iii/s.muda,10250,kota
+kab. pidie,2021,2,akademi/diploma iii/s.muda,7759,kota
+kab. aceh utara,2021,2,akademi/diploma iii/s.muda,6222,kota
+kab. simeulue,2021,2,akademi/diploma iii/s.muda,1877,kota
+kab. aceh singkil,2021,2,akademi/diploma iii/s.muda,1394,kota
+kab. bireuen,2021,2,akademi/diploma iii/s.muda,7287,kota
+kab. aceh barat daya,2021,2,akademi/diploma iii/s.muda,2198,kota
+kab. gayo lues,2021,2,akademi/diploma iii/s.muda,1419,kota
+kab. aceh jaya,2021,2,akademi/diploma iii/s.muda,1406,kota
+kab. nagan raya,2021,2,akademi/diploma iii/s.muda,2431,kota
+kab. aceh tamiang,2021,2,akademi/diploma iii/s.muda,3190,kota
+kab. bener meriah,2021,2,akademi/diploma iii/s.muda,2503,kota
+kab. pidie jaya,2021,2,akademi/diploma iii/s.muda,2518,kota
+banda aceh,2021,2,akademi/diploma iii/s.muda,11162,kota
+sabang,2021,2,akademi/diploma iii/s.muda,1012,kota
+lhokseumawe,2021,2,akademi/diploma iii/s.muda,4629,kota
+langsa,2021,2,akademi/diploma iii/s.muda,3359,kota
+subulussalam,2021,2,akademi/diploma iii/s.muda,971,kota
+kab. aceh selatan,2021,2,diploma iv/strata i,10137,kota
+kab. aceh tenggara,2021,2,diploma iv/strata i,7998,kota
+kab. aceh timur,2021,2,diploma iv/strata i,8666,kota
+kab. aceh tengah,2021,2,diploma iv/strata i,10705,kota
+kab. aceh barat,2021,2,diploma iv/strata i,9726,kota
+kab. aceh besar,2021,2,diploma iv/strata i,27753,kota
+kab. pidie,2021,2,diploma iv/strata i,18684,kota
+kab. aceh utara,2021,2,diploma iv/strata i,15856,kota
+kab. simeulue,2021,2,diploma iv/strata i,5039,kota
+kab. aceh singkil,2021,2,diploma iv/strata i,4567,kota
+kab. bireuen,2021,2,diploma iv/strata i,19208,kota
+kab. aceh barat daya,2021,2,diploma iv/strata i,5316,kota
+kab. gayo lues,2021,2,diploma iv/strata i,4946,kota
+kab. aceh jaya,2021,2,diploma iv/strata i,4186,kota
+kab. nagan raya,2021,2,diploma iv/strata i,6517,kota
+kab. aceh tamiang,2021,2,diploma iv/strata i,9223,kota
+kab. bener meriah,2021,2,diploma iv/strata i,6641,kota
+kab. pidie jaya,2021,2,diploma iv/strata i,6096,kota
+banda aceh,2021,2,diploma iv/strata i,34346,kota
+sabang,2021,2,diploma iv/strata i,2549,kota
+lhokseumawe,2021,2,diploma iv/strata i,10419,kota
+langsa,2021,2,diploma iv/strata i,12348,kota
+subulussalam,2021,2,diploma iv/strata i,3143,kota
+kab. aceh selatan,2021,2,strata ii,312,kota
+kab. aceh tenggara,2021,2,strata ii,369,kota
+kab. aceh timur,2021,2,strata ii,234,kota
+kab. aceh tengah,2021,2,strata ii,604,kota
+kab. aceh barat,2021,2,strata ii,565,kota
+kab. aceh besar,2021,2,strata ii,2432,kota
+kab. pidie,2021,2,strata ii,633,kota
+kab. aceh utara,2021,2,strata ii,548,kota
+kab. simeulue,2021,2,strata ii,121,kota
+kab. aceh singkil,2021,2,strata ii,153,kota
+kab. bireuen,2021,2,strata ii,645,kota
+kab. aceh barat daya,2021,2,strata ii,171,kota
+kab. gayo lues,2021,2,strata ii,170,kota
+kab. aceh jaya,2021,2,strata ii,142,kota
+kab. nagan raya,2021,2,strata ii,183,kota
+kab. aceh tamiang,2021,2,strata ii,258,kota
+kab. bener meriah,2021,2,strata ii,169,kota
+kab. pidie jaya,2021,2,strata ii,162,kota
+banda aceh,2021,2,strata ii,4607,kota
+sabang,2021,2,strata ii,131,kota
+lhokseumawe,2021,2,strata ii,967,kota
+langsa,2021,2,strata ii,1009,kota
+subulussalam,2021,2,strata ii,99,kota
+kab. aceh selatan,2021,2,strata iii,7,kota
+kab. aceh tenggara,2021,2,strata iii,5,kota
+kab. aceh timur,2021,2,strata iii,13,kota
+kab. aceh tengah,2021,2,strata iii,10,kota
+kab. aceh barat,2021,2,strata iii,24,kota
+kab. aceh besar,2021,2,strata iii,236,kota
+kab. pidie,2021,2,strata iii,13,kota
+kab. aceh utara,2021,2,strata iii,40,kota
+kab. simeulue,2021,2,strata iii,8,kota
+kab. aceh singkil,2021,2,strata iii,2,kota
+kab. bireuen,2021,2,strata iii,64,kota
+kab. aceh barat daya,2021,2,strata iii,10,kota
+kab. gayo lues,2021,2,strata iii,1,kota
+kab. aceh jaya,2021,2,strata iii,0,kota
+kab. nagan raya,2021,2,strata iii,7,kota
+kab. aceh tamiang,2021,2,strata iii,10,kota
+kab. bener meriah,2021,2,strata iii,10,kota
+kab. pidie jaya,2021,2,strata iii,2,kota
+banda aceh,2021,2,strata iii,451,kota
+sabang,2021,2,strata iii,1,kota
+lhokseumawe,2021,2,strata iii,54,kota
+langsa,2021,2,strata iii,54,kota
+subulussalam,2021,2,strata iii,3,kota
+aceh selatan,2022,2,tidak/belum sekolah,44931,kabupaten
+aceh tenggara,2022,2,tidak/belum sekolah,71573,kabupaten
+aceh timur,2022,2,tidak/belum sekolah,147340,kabupaten
+aceh tengah,2022,2,tidak/belum sekolah,70279,kabupaten
+aceh barat,2022,2,tidak/belum sekolah,39119,kabupaten
+aceh besar,2022,2,tidak/belum sekolah,88675,kabupaten
+pidie,2022,2,tidak/belum sekolah,92370,kabupaten
+aceh utara,2022,2,tidak/belum sekolah,151476,kabupaten
+simeulue,2022,2,tidak/belum sekolah,19696,kabupaten
+aceh singkil,2022,2,tidak/belum sekolah,47279,kabupaten
+bireuen,2022,2,tidak/belum sekolah,101416,kabupaten
+aceh barat daya,2022,2,tidak/belum sekolah,40345,kabupaten
+gayo lues,2022,2,tidak/belum sekolah,29352,kabupaten
+aceh jaya,2022,2,tidak/belum sekolah,20574,kabupaten
+nagan raya,2022,2,tidak/belum sekolah,41508,kabupaten
+aceh tamiang,2022,2,tidak/belum sekolah,104199,kabupaten
+bener meriah,2022,2,tidak/belum sekolah,49148,kabupaten
+pidie jaya,2022,2,tidak/belum sekolah,42762,kabupaten
+banda aceh,2022,2,tidak/belum sekolah,65333,kota
+sabang,2022,2,tidak/belum sekolah,10563,kota
+lhokseumawe,2022,2,tidak/belum sekolah,49867,kota
+langsa,2022,2,tidak/belum sekolah,56910,kota
+subulussalam,2022,2,tidak/belum sekolah,34854,kota
+aceh selatan,2022,2,belum tamat sd/sederajat,26861,kabupaten
+aceh tenggara,2022,2,belum tamat sd/sederajat,23629,kabupaten
+aceh timur,2022,2,belum tamat sd/sederajat,38130,kabupaten
+aceh tengah,2022,2,belum tamat sd/sederajat,20078,kabupaten
+aceh barat,2022,2,belum tamat sd/sederajat,24663,kabupaten
+aceh besar,2022,2,belum tamat sd/sederajat,53737,kabupaten
+pidie,2022,2,belum tamat sd/sederajat,59201,kabupaten
+aceh utara,2022,2,belum tamat sd/sederajat,75335,kabupaten
+simeulue,2022,2,belum tamat sd/sederajat,12350,kabupaten
+aceh singkil,2022,2,belum tamat sd/sederajat,19535,kabupaten
+bireuen,2022,2,belum tamat sd/sederajat,49253,kabupaten
+aceh barat daya,2022,2,belum tamat sd/sederajat,17291,kabupaten
+gayo lues,2022,2,belum tamat sd/sederajat,17088,kabupaten
+aceh jaya,2022,2,belum tamat sd/sederajat,12545,kabupaten
+nagan raya,2022,2,belum tamat sd/sederajat,18898,kabupaten
+aceh tamiang,2022,2,belum tamat sd/sederajat,31307,kabupaten
+bener meriah,2022,2,belum tamat sd/sederajat,17515,kabupaten
+pidie jaya,2022,2,belum tamat sd/sederajat,20026,kabupaten
+banda aceh,2022,2,belum tamat sd/sederajat,24757,kota
+sabang,2022,2,belum tamat sd/sederajat,4844,kota
+lhokseumawe,2022,2,belum tamat sd/sederajat,17414,kota
+langsa,2022,2,belum tamat sd/sederajat,14188,kota
+subulussalam,2022,2,belum tamat sd/sederajat,15598,kota
+aceh selatan,2022,2,tamat sd/sederajat,57006,kabupaten
+aceh tenggara,2022,2,tamat sd/sederajat,32796,kabupaten
+aceh timur,2022,2,tamat sd/sederajat,111291,kabupaten
+aceh tengah,2022,2,tamat sd/sederajat,34566,kabupaten
+aceh barat,2022,2,tamat sd/sederajat,39762,kabupaten
+aceh besar,2022,2,tamat sd/sederajat,59931,kabupaten
+pidie,2022,2,tamat sd/sederajat,63812,kabupaten
+aceh utara,2022,2,tamat sd/sederajat,132627,kabupaten
+simeulue,2022,2,tamat sd/sederajat,19641,kabupaten
+aceh singkil,2022,2,tamat sd/sederajat,21233,kabupaten
+bireuen,2022,2,tamat sd/sederajat,87220,kabupaten
+aceh barat daya,2022,2,tamat sd/sederajat,34489,kabupaten
+gayo lues,2022,2,tamat sd/sederajat,19072,kabupaten
+aceh jaya,2022,2,tamat sd/sederajat,23043,kabupaten
+nagan raya,2022,2,tamat sd/sederajat,35491,kabupaten
+aceh tamiang,2022,2,tamat sd/sederajat,62406,kabupaten
+bener meriah,2022,2,tamat sd/sederajat,28102,kabupaten
+pidie jaya,2022,2,tamat sd/sederajat,25651,kabupaten
+banda aceh,2022,2,tamat sd/sederajat,13786,kota
+sabang,2022,2,tamat sd/sederajat,5182,kota
+lhokseumawe,2022,2,tamat sd/sederajat,21410,kota
+langsa,2022,2,tamat sd/sederajat,24428,kota
+subulussalam,2022,2,tamat sd/sederajat,17351,kota
+aceh selatan,2022,2,sltp/sederajat,36740,kabupaten
+aceh tenggara,2022,2,sltp/sederajat,33103,kabupaten
+aceh timur,2022,2,sltp/sederajat,65141,kabupaten
+aceh tengah,2022,2,sltp/sederajat,30257,kabupaten
+aceh barat,2022,2,sltp/sederajat,27163,kabupaten
+aceh besar,2022,2,sltp/sederajat,59574,kabupaten
+pidie,2022,2,sltp/sederajat,69774,kabupaten
+aceh utara,2022,2,sltp/sederajat,92205,kabupaten
+simeulue,2022,2,sltp/sederajat,13913,kabupaten
+aceh singkil,2022,2,sltp/sederajat,14267,kabupaten
+bireuen,2022,2,sltp/sederajat,75802,kabupaten
+aceh barat daya,2022,2,sltp/sederajat,22513,kabupaten
+gayo lues,2022,2,sltp/sederajat,12169,kabupaten
+aceh jaya,2022,2,sltp/sederajat,14670,kabupaten
+nagan raya,2022,2,sltp/sederajat,24595,kabupaten
+aceh tamiang,2022,2,sltp/sederajat,37351,kabupaten
+bener meriah,2022,2,sltp/sederajat,26806,kabupaten
+pidie jaya,2022,2,sltp/sederajat,28074,kabupaten
+banda aceh,2022,2,sltp/sederajat,22977,kota
+sabang,2022,2,sltp/sederajat,5773,kota
+lhokseumawe,2022,2,sltp/sederajat,21516,kota
+langsa,2022,2,sltp/sederajat,22234,kota
+subulussalam,2022,2,sltp/sederajat,10210,kota
+aceh selatan,2022,2,slta/sederajat,52326,kabupaten
+aceh tenggara,2022,2,slta/sederajat,53948,kabupaten
+aceh timur,2022,2,slta/sederajat,63804,kabupaten
+aceh tengah,2022,2,slta/sederajat,49658,kabupaten
+aceh barat,2022,2,slta/sederajat,52037,kabupaten
+aceh besar,2022,2,slta/sederajat,119099,kabupaten
+pidie,2022,2,slta/sederajat,122608,kabupaten
+aceh utara,2022,2,slta/sederajat,141949,kabupaten
+simeulue,2022,2,slta/sederajat,20941,kabupaten
+aceh singkil,2022,2,slta/sederajat,22058,kabupaten
+bireuen,2022,2,slta/sederajat,105606,kabupaten
+aceh barat daya,2022,2,slta/sederajat,29533,kabupaten
+gayo lues,2022,2,slta/sederajat,16757,kabupaten
+aceh jaya,2022,2,slta/sederajat,19265,kabupaten
+nagan raya,2022,2,slta/sederajat,41243,kabupaten
+aceh tamiang,2022,2,slta/sederajat,52887,kabupaten
+bener meriah,2022,2,slta/sederajat,38393,kabupaten
+pidie jaya,2022,2,slta/sederajat,33925,kabupaten
+banda aceh,2022,2,slta/sederajat,74092,kota
+sabang,2022,2,slta/sederajat,12518,kota
+lhokseumawe,2022,2,slta/sederajat,65176,kota
+langsa,2022,2,slta/sederajat,50103,kota
+subulussalam,2022,2,slta/sederajat,15803,kota
+aceh selatan,2022,2,diploma i/ii,2205,kabupaten
+aceh tenggara,2022,2,diploma i/ii,1877,kabupaten
+aceh timur,2022,2,diploma i/ii,2235,kabupaten
+aceh tengah,2022,2,diploma i/ii,2339,kabupaten
+aceh barat,2022,2,diploma i/ii,2347,kabupaten
+aceh besar,2022,2,diploma i/ii,4736,kabupaten
+pidie,2022,2,diploma i/ii,3842,kabupaten
+aceh utara,2022,2,diploma i/ii,2395,kabupaten
+simeulue,2022,2,diploma i/ii,1131,kabupaten
+aceh singkil,2022,2,diploma i/ii,632,kabupaten
+bireuen,2022,2,diploma i/ii,3807,kabupaten
+aceh barat daya,2022,2,diploma i/ii,1515,kabupaten
+gayo lues,2022,2,diploma i/ii,833,kabupaten
+aceh jaya,2022,2,diploma i/ii,895,kabupaten
+nagan raya,2022,2,diploma i/ii,1942,kabupaten
+aceh tamiang,2022,2,diploma i/ii,1673,kabupaten
+bener meriah,2022,2,diploma i/ii,1518,kabupaten
+pidie jaya,2022,2,diploma i/ii,1251,kabupaten
+banda aceh,2022,2,diploma i/ii,2884,kota
+sabang,2022,2,diploma i/ii,296,kota
+lhokseumawe,2022,2,diploma i/ii,854,kota
+langsa,2022,2,diploma i/ii,1210,kota
+subulussalam,2022,2,diploma i/ii,569,kota
+aceh selatan,2022,2,akademi/diploma iii/s.muda,3349,kabupaten
+aceh tenggara,2022,2,akademi/diploma iii/s.muda,2584,kabupaten
+aceh timur,2022,2,akademi/diploma iii/s.muda,4253,kabupaten
+aceh tengah,2022,2,akademi/diploma iii/s.muda,3558,kabupaten
+aceh barat,2022,2,akademi/diploma iii/s.muda,3672,kabupaten
+aceh besar,2022,2,akademi/diploma iii/s.muda,10717,kabupaten
+pidie,2022,2,akademi/diploma iii/s.muda,7832,kabupaten
+aceh utara,2022,2,akademi/diploma iii/s.muda,6328,kabupaten
+simeulue,2022,2,akademi/diploma iii/s.muda,1892,kabupaten
+aceh singkil,2022,2,akademi/diploma iii/s.muda,1448,kabupaten
+bireuen,2022,2,akademi/diploma iii/s.muda,7495,kabupaten
+aceh barat daya,2022,2,akademi/diploma iii/s.muda,2199,kabupaten
+gayo lues,2022,2,akademi/diploma iii/s.muda,1459,kabupaten
+aceh jaya,2022,2,akademi/diploma iii/s.muda,1448,kabupaten
+nagan raya,2022,2,akademi/diploma iii/s.muda,2501,kabupaten
+aceh tamiang,2022,2,akademi/diploma iii/s.muda,3313,kabupaten
+bener meriah,2022,2,akademi/diploma iii/s.muda,2557,kabupaten
+pidie jaya,2022,2,akademi/diploma iii/s.muda,2580,kabupaten
+banda aceh,2022,2,akademi/diploma iii/s.muda,11148,kota
+sabang,2022,2,akademi/diploma iii/s.muda,1134,kota
+lhokseumawe,2022,2,akademi/diploma iii/s.muda,4685,kota
+langsa,2022,2,akademi/diploma iii/s.muda,3346,kota
+subulussalam,2022,2,akademi/diploma iii/s.muda,1080,kota
+aceh selatan,2022,2,diploma iv/strata i,10590,kabupaten
+aceh tenggara,2022,2,diploma iv/strata i,8270,kabupaten
+aceh timur,2022,2,diploma iv/strata i,9247,kabupaten
+aceh tengah,2022,2,diploma iv/strata i,11179,kabupaten
+aceh barat,2022,2,diploma iv/strata i,10701,kabupaten
+aceh besar,2022,2,diploma iv/strata i,32200,kabupaten
+pidie,2022,2,diploma iv/strata i,19168,kabupaten
+aceh utara,2022,2,diploma iv/strata i,16561,kabupaten
+simeulue,2022,2,diploma iv/strata i,5350,kabupaten
+aceh singkil,2022,2,diploma iv/strata i,4807,kabupaten
+bireuen,2022,2,diploma iv/strata i,20567,kabupaten
+aceh barat daya,2022,2,diploma iv/strata i,5743,kabupaten
+gayo lues,2022,2,diploma iv/strata i,5399,kabupaten
+aceh jaya,2022,2,diploma iv/strata i,4524,kabupaten
+nagan raya,2022,2,diploma iv/strata i,6928,kabupaten
+aceh tamiang,2022,2,diploma iv/strata i,10027,kabupaten
+bener meriah,2022,2,diploma iv/strata i,7158,kabupaten
+pidie jaya,2022,2,diploma iv/strata i,6381,kabupaten
+banda aceh,2022,2,diploma iv/strata i,35221,kota
+sabang,2022,2,diploma iv/strata i,2731,kota
+lhokseumawe,2022,2,diploma iv/strata i,10860,kota
+langsa,2022,2,diploma iv/strata i,12692,kota
+subulussalam,2022,2,diploma iv/strata i,3506,kota
+aceh selatan,2022,2,strata ii,323,kabupaten
+aceh tenggara,2022,2,strata ii,390,kabupaten
+aceh timur,2022,2,strata ii,263,kabupaten
+aceh tengah,2022,2,strata ii,629,kabupaten
+aceh barat,2022,2,strata ii,633,kabupaten
+aceh besar,2022,2,strata ii,452,kabupaten
+pidie,2022,2,strata ii,677,kabupaten
+aceh utara,2022,2,strata ii,593,kabupaten
+simeulue,2022,2,strata ii,126,kabupaten
+aceh singkil,2022,2,strata ii,163,kabupaten
+bireuen,2022,2,strata ii,719,kabupaten
+aceh barat daya,2022,2,strata ii,193,kabupaten
+gayo lues,2022,2,strata ii,183,kabupaten
+aceh jaya,2022,2,strata ii,158,kabupaten
+nagan raya,2022,2,strata ii,202,kabupaten
+aceh tamiang,2022,2,strata ii,298,kabupaten
+bener meriah,2022,2,strata ii,190,kabupaten
+pidie jaya,2022,2,strata ii,176,kabupaten
+banda aceh,2022,2,strata ii,4743,kota
+sabang,2022,2,strata ii,133,kota
+lhokseumawe,2022,2,strata ii,1026,kota
+langsa,2022,2,strata ii,1044,kota
+subulussalam,2022,2,strata ii,117,kota
+aceh selatan,2022,2,strata iii,8,kabupaten
+aceh tenggara,2022,2,strata iii,5,kabupaten
+aceh timur,2022,2,strata iii,15,kabupaten
+aceh tengah,2022,2,strata iii,15,kabupaten
+aceh barat,2022,2,strata iii,26,kabupaten
+aceh besar,2022,2,strata iii,22,kabupaten
+pidie,2022,2,strata iii,14,kabupaten
+aceh utara,2022,2,strata iii,37,kabupaten
+simeulue,2022,2,strata iii,7,kabupaten
+aceh singkil,2022,2,strata iii,1,kabupaten
+bireuen,2022,2,strata iii,67,kabupaten
+aceh barat daya,2022,2,strata iii,8,kabupaten
+gayo lues,2022,2,strata iii,2,kabupaten
+aceh jaya,2022,2,strata iii,2,kabupaten
+nagan raya,2022,2,strata iii,8,kabupaten
+aceh tamiang,2022,2,strata iii,10,kabupaten
+bener meriah,2022,2,strata iii,13,kabupaten
+pidie jaya,2022,2,strata iii,2,kabupaten
+banda aceh,2022,2,strata iii,468,kota
+sabang,2022,2,strata iii,2,kota
+lhokseumawe,2022,2,strata iii,52,kota
+langsa,2022,2,strata iii,56,kota
+subulussalam,2022,2,strata iii,3,kota

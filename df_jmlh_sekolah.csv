@@ -1,0 +1,415 @@
+daerah,tahun,jenjang,status_satuan,jumlah,kabupaten_kota
+aceh utara,2021,sma,negeri,37,kabupaten
+bireuen,2021,sma,negeri,24,kabupaten
+aceh timur,2021,sma,negeri,27,kabupaten
+aceh besar,2021,sma,negeri,28,kabupaten
+aceh selatan,2021,sma,negeri,28,kabupaten
+pidie,2021,sma,negeri,24,kabupaten
+aceh tenggara,2021,sma,negeri,20,kabupaten
+aceh tengah,2021,sma,negeri,17,kabupaten
+aceh barat,2021,sma,negeri,17,kabupaten
+aceh tamiang,2021,sma,negeri,21,kabupaten
+bener meriah,2021,sma,negeri,14,kabupaten
+aceh jaya,2021,sma,negeri,11,kabupaten
+nagan raya,2021,sma,negeri,17,kabupaten
+aceh singkil,2021,sma,negeri,11,kabupaten
+banda aceh,2021,sma,negeri,17,kota
+simeulue,2021,sma,negeri,25,kabupaten
+aceh barat daya,2021,sma,negeri,13,kabupaten
+pidie jaya,2021,sma,negeri,10,kabupaten
+lhokseumawe,2021,sma,negeri,8,kota
+subulussalam,2021,sma,negeri,8,kota
+langsa,2021,sma,negeri,5,kota
+gayo lues,2021,sma,negeri,12,kabupaten
+sabang,2021,sma,negeri,2,kota
+aceh utara,2021,sma,swasta,17,kabupaten
+bireuen,2021,sma,swasta,13,kabupaten
+aceh timur,2021,sma,swasta,4,kabupaten
+aceh besar,2021,sma,swasta,20,kabupaten
+aceh selatan,2021,sma,swasta,5,kabupaten
+pidie,2021,sma,swasta,7,kabupaten
+aceh tenggara,2021,sma,swasta,9,kabupaten
+aceh tengah,2021,sma,swasta,3,kabupaten
+aceh barat,2021,sma,swasta,5,kabupaten
+aceh tamiang,2021,sma,swasta,6,kabupaten
+bener meriah,2021,sma,swasta,9,kabupaten
+aceh jaya,2021,sma,swasta,3,kabupaten
+nagan raya,2021,sma,swasta,1,kabupaten
+aceh singkil,2021,sma,swasta,4,kabupaten
+banda aceh,2021,sma,swasta,12,kota
+simeulue,2021,sma,swasta,1,kabupaten
+aceh barat daya,2021,sma,swasta,2,kabupaten
+pidie jaya,2021,sma,swasta,4,kabupaten
+lhokseumawe,2021,sma,swasta,4,kota
+subulussalam,2021,sma,swasta,6,kota
+langsa,2021,sma,swasta,5,kota
+gayo lues,2021,sma,swasta,4,kabupaten
+sabang,2021,sma,swasta,1,kota
+aceh utara,2021,smk,negeri,14,kabupaten
+bireuen,2021,smk,negeri,8,kabupaten
+aceh timur,2021,smk,negeri,15,kabupaten
+aceh besar,2021,smk,negeri,8,kabupaten
+aceh selatan,2021,smk,negeri,10,kabupaten
+pidie,2021,smk,negeri,7,kabupaten
+aceh tenggara,2021,smk,negeri,6,kabupaten
+aceh tengah,2021,smk,negeri,5,kabupaten
+aceh barat,2021,smk,negeri,11,kabupaten
+aceh tamiang,2021,smk,negeri,5,kabupaten
+bener meriah,2021,smk,negeri,5,kabupaten
+aceh jaya,2021,smk,negeri,6,kabupaten
+nagan raya,2021,smk,negeri,2,kabupaten
+aceh singkil,2021,smk,negeri,6,kabupaten
+banda aceh,2021,smk,negeri,6,kota
+simeulue,2021,smk,negeri,8,kabupaten
+aceh barat daya,2021,smk,negeri,5,kabupaten
+pidie jaya,2021,smk,negeri,4,kabupaten
+lhokseumawe,2021,smk,negeri,8,kota
+subulussalam,2021,smk,negeri,5,kota
+langsa,2021,smk,negeri,6,kota
+gayo lues,2021,smk,negeri,2,kabupaten
+sabang,2021,smk,negeri,1,kota
+aceh utara,2021,smk,swasta,13,kabupaten
+bireuen,2021,smk,swasta,4,kabupaten
+aceh timur,2021,smk,swasta,2,kabupaten
+aceh besar,2021,smk,swasta,3,kabupaten
+aceh selatan,2021,smk,swasta,2,kabupaten
+pidie,2021,smk,swasta,7,kabupaten
+aceh tenggara,2021,smk,swasta,11,kabupaten
+aceh tengah,2021,smk,swasta,1,kabupaten
+aceh barat,2021,smk,swasta,0,kabupaten
+aceh tamiang,2021,smk,swasta,5,kabupaten
+bener meriah,2021,smk,swasta,1,kabupaten
+aceh jaya,2021,smk,swasta,1,kabupaten
+nagan raya,2021,smk,swasta,3,kabupaten
+aceh singkil,2021,smk,swasta,3,kabupaten
+banda aceh,2021,smk,swasta,3,kota
+simeulue,2021,smk,swasta,0,kabupaten
+aceh barat daya,2021,smk,swasta,0,kabupaten
+pidie jaya,2021,smk,swasta,3,kabupaten
+lhokseumawe,2021,smk,swasta,5,kota
+subulussalam,2021,smk,swasta,1,kota
+langsa,2021,smk,swasta,4,kota
+gayo lues,2021,smk,swasta,0,kabupaten
+sabang,2021,smk,swasta,0,kota
+aceh utara,2021,slb,negeri,1,kabupaten
+bireuen,2021,slb,negeri,2,kabupaten
+aceh timur,2021,slb,negeri,1,kabupaten
+aceh besar,2021,slb,negeri,2,kabupaten
+aceh selatan,2021,slb,negeri,1,kabupaten
+pidie,2021,slb,negeri,2,kabupaten
+aceh tenggara,2021,slb,negeri,2,kabupaten
+aceh tengah,2021,slb,negeri,1,kabupaten
+aceh barat,2021,slb,negeri,1,kabupaten
+aceh tamiang,2021,slb,negeri,1,kabupaten
+bener meriah,2021,slb,negeri,1,kabupaten
+aceh jaya,2021,slb,negeri,1,kabupaten
+nagan raya,2021,slb,negeri,1,kabupaten
+aceh singkil,2021,slb,negeri,1,kabupaten
+banda aceh,2021,slb,negeri,1,kota
+simeulue,2021,slb,negeri,1,kabupaten
+aceh barat daya,2021,slb,negeri,1,kabupaten
+pidie jaya,2021,slb,negeri,1,kabupaten
+lhokseumawe,2021,slb,negeri,1,kota
+subulussalam,2021,slb,negeri,1,kota
+langsa,2021,slb,negeri,1,kota
+gayo lues,2021,slb,negeri,1,kabupaten
+sabang,2021,slb,negeri,2,kota
+aceh utara,2021,slb,swasta,4,kabupaten
+bireuen,2021,slb,swasta,4,kabupaten
+aceh timur,2021,slb,swasta,1,kabupaten
+aceh besar,2021,slb,swasta,0,kabupaten
+aceh selatan,2021,slb,swasta,1,kabupaten
+pidie,2021,slb,swasta,0,kabupaten
+aceh tenggara,2021,slb,swasta,0,kabupaten
+aceh tengah,2021,slb,swasta,7,kabupaten
+aceh barat,2021,slb,swasta,1,kabupaten
+aceh tamiang,2021,slb,swasta,0,kabupaten
+bener meriah,2021,slb,swasta,4,kabupaten
+aceh jaya,2021,slb,swasta,0,kabupaten
+nagan raya,2021,slb,swasta,0,kabupaten
+aceh singkil,2021,slb,swasta,0,kabupaten
+banda aceh,2021,slb,swasta,6,kota
+simeulue,2021,slb,swasta,0,kabupaten
+aceh barat daya,2021,slb,swasta,0,kabupaten
+pidie jaya,2021,slb,swasta,1,kabupaten
+lhokseumawe,2021,slb,swasta,2,kota
+subulussalam,2021,slb,swasta,0,kota
+langsa,2021,slb,swasta,4,kota
+gayo lues,2021,slb,swasta,3,kabupaten
+sabang,2021,slb,swasta,0,kota
+aceh utara,2020,sma,negeri,37,kabupaten
+bireuen,2020,sma,negeri,24,kabupaten
+aceh timur,2020,sma,negeri,27,kabupaten
+aceh besar,2020,sma,negeri,28,kabupaten
+aceh selatan,2020,sma,negeri,28,kabupaten
+pidie,2020,sma,negeri,24,kabupaten
+aceh tenggara,2020,sma,negeri,20,kabupaten
+aceh tengah,2020,sma,negeri,17,kabupaten
+aceh barat,2020,sma,negeri,17,kabupaten
+aceh tamiang,2020,sma,negeri,21,kabupaten
+bener meriah,2020,sma,negeri,14,kabupaten
+aceh jaya,2020,sma,negeri,11,kabupaten
+nagan raya,2020,sma,negeri,17,kabupaten
+banda aceh,2020,sma,negeri,17,kota
+aceh singkil,2020,sma,negeri,11,kabupaten
+simeulue,2020,sma,negeri,25,kabupaten
+aceh barat daya,2020,sma,negeri,13,kabupaten
+pidie jaya,2020,sma,negeri,10,kabupaten
+lhokseumawe,2020,sma,negeri,8,kota
+subulussalam,2020,sma,negeri,8,kota
+langsa,2020,sma,negeri,5,kota
+gayo lues,2020,sma,negeri,12,kabupaten
+sabang,2020,sma,negeri,2,kota
+aceh utara,2020,sma,swasta,17,kabupaten
+bireuen,2020,sma,swasta,12,kabupaten
+aceh timur,2020,sma,swasta,4,kabupaten
+aceh besar,2020,sma,swasta,17,kabupaten
+aceh selatan,2020,sma,swasta,5,kabupaten
+pidie,2020,sma,swasta,7,kabupaten
+aceh tenggara,2020,sma,swasta,9,kabupaten
+aceh tengah,2020,sma,swasta,2,kabupaten
+aceh barat,2020,sma,swasta,4,kabupaten
+aceh tamiang,2020,sma,swasta,6,kabupaten
+bener meriah,2020,sma,swasta,9,kabupaten
+aceh jaya,2020,sma,swasta,3,kabupaten
+nagan raya,2020,sma,swasta,0,kabupaten
+banda aceh,2020,sma,swasta,12,kota
+aceh singkil,2020,sma,swasta,3,kabupaten
+simeulue,2020,sma,swasta,1,kabupaten
+aceh barat daya,2020,sma,swasta,2,kabupaten
+pidie jaya,2020,sma,swasta,4,kabupaten
+lhokseumawe,2020,sma,swasta,4,kota
+subulussalam,2020,sma,swasta,6,kota
+langsa,2020,sma,swasta,5,kota
+gayo lues,2020,sma,swasta,3,kabupaten
+sabang,2020,sma,swasta,1,kota
+aceh utara,2020,smk,negeri,14,kabupaten
+bireuen,2020,smk,negeri,8,kabupaten
+aceh timur,2020,smk,negeri,15,kabupaten
+aceh besar,2020,smk,negeri,8,kabupaten
+aceh selatan,2020,smk,negeri,10,kabupaten
+pidie,2020,smk,negeri,7,kabupaten
+aceh tenggara,2020,smk,negeri,6,kabupaten
+aceh tengah,2020,smk,negeri,5,kabupaten
+aceh barat,2020,smk,negeri,10,kabupaten
+aceh tamiang,2020,smk,negeri,5,kabupaten
+bener meriah,2020,smk,negeri,5,kabupaten
+aceh jaya,2020,smk,negeri,6,kabupaten
+nagan raya,2020,smk,negeri,2,kabupaten
+banda aceh,2020,smk,negeri,6,kota
+aceh singkil,2020,smk,negeri,6,kabupaten
+simeulue,2020,smk,negeri,8,kabupaten
+aceh barat daya,2020,smk,negeri,5,kabupaten
+pidie jaya,2020,smk,negeri,4,kabupaten
+lhokseumawe,2020,smk,negeri,8,kota
+subulussalam,2020,smk,negeri,5,kota
+langsa,2020,smk,negeri,6,kota
+gayo lues,2020,smk,negeri,2,kabupaten
+sabang,2020,smk,negeri,1,kota
+aceh utara,2020,smk,swasta,13,kabupaten
+bireuen,2020,smk,swasta,4,kabupaten
+aceh timur,2020,smk,swasta,2,kabupaten
+aceh besar,2020,smk,swasta,3,kabupaten
+aceh selatan,2020,smk,swasta,1,kabupaten
+pidie,2020,smk,swasta,7,kabupaten
+aceh tenggara,2020,smk,swasta,10,kabupaten
+aceh tengah,2020,smk,swasta,1,kabupaten
+aceh barat,2020,smk,swasta,1,kabupaten
+aceh tamiang,2020,smk,swasta,5,kabupaten
+bener meriah,2020,smk,swasta,1,kabupaten
+aceh jaya,2020,smk,swasta,1,kabupaten
+nagan raya,2020,smk,swasta,3,kabupaten
+banda aceh,2020,smk,swasta,3,kota
+aceh singkil,2020,smk,swasta,3,kabupaten
+simeulue,2020,smk,swasta,0,kabupaten
+aceh barat daya,2020,smk,swasta,0,kabupaten
+pidie jaya,2020,smk,swasta,3,kabupaten
+lhokseumawe,2020,smk,swasta,5,kota
+subulussalam,2020,smk,swasta,0,kota
+langsa,2020,smk,swasta,4,kota
+gayo lues,2020,smk,swasta,0,kabupaten
+sabang,2020,smk,swasta,0,kota
+aceh utara,2020,slb,negeri,1,kabupaten
+bireuen,2020,slb,negeri,2,kabupaten
+aceh timur,2020,slb,negeri,1,kabupaten
+aceh besar,2020,slb,negeri,2,kabupaten
+aceh selatan,2020,slb,negeri,0,kabupaten
+pidie,2020,slb,negeri,2,kabupaten
+aceh tenggara,2020,slb,negeri,2,kabupaten
+aceh tengah,2020,slb,negeri,2,kabupaten
+aceh barat,2020,slb,negeri,1,kabupaten
+aceh tamiang,2020,slb,negeri,1,kabupaten
+bener meriah,2020,slb,negeri,1,kabupaten
+aceh jaya,2020,slb,negeri,1,kabupaten
+nagan raya,2020,slb,negeri,1,kabupaten
+banda aceh,2020,slb,negeri,1,kota
+aceh singkil,2020,slb,negeri,1,kabupaten
+simeulue,2020,slb,negeri,1,kabupaten
+aceh barat daya,2020,slb,negeri,3,kabupaten
+pidie jaya,2020,slb,negeri,1,kabupaten
+lhokseumawe,2020,slb,negeri,1,kota
+subulussalam,2020,slb,negeri,1,kota
+langsa,2020,slb,negeri,1,kota
+gayo lues,2020,slb,negeri,1,kabupaten
+sabang,2020,slb,negeri,2,kota
+aceh utara,2020,slb,swasta,4,kabupaten
+bireuen,2020,slb,swasta,4,kabupaten
+aceh timur,2020,slb,swasta,2,kabupaten
+aceh besar,2020,slb,swasta,2,kabupaten
+aceh selatan,2020,slb,swasta,1,kabupaten
+pidie,2020,slb,swasta,0,kabupaten
+aceh tenggara,2020,slb,swasta,0,kabupaten
+aceh tengah,2020,slb,swasta,7,kabupaten
+aceh barat,2020,slb,swasta,2,kabupaten
+aceh tamiang,2020,slb,swasta,0,kabupaten
+bener meriah,2020,slb,swasta,5,kabupaten
+aceh jaya,2020,slb,swasta,0,kabupaten
+nagan raya,2020,slb,swasta,0,kabupaten
+banda aceh,2020,slb,swasta,7,kota
+aceh singkil,2020,slb,swasta,0,kabupaten
+simeulue,2020,slb,swasta,0,kabupaten
+aceh barat daya,2020,slb,swasta,0,kabupaten
+pidie jaya,2020,slb,swasta,1,kabupaten
+lhokseumawe,2020,slb,swasta,2,kota
+subulussalam,2020,slb,swasta,0,kota
+langsa,2020,slb,swasta,4,kota
+gayo lues,2020,slb,swasta,3,kabupaten
+sabang,2020,slb,swasta,0,kota
+aceh utara,2022,sma,negeri,37,kabupaten
+bireuen,2022,sma,negeri,24,kabupaten
+aceh timur,2022,sma,negeri,27,kabupaten
+aceh selatan,2022,sma,negeri,28,kabupaten
+aceh besar,2022,sma,negeri,28,kabupaten
+pidie,2022,sma,negeri,24,kabupaten
+aceh tenggara,2022,sma,negeri,20,kabupaten
+aceh tengah,2022,sma,negeri,17,kabupaten
+aceh barat,2022,sma,negeri,17,kabupaten
+aceh tamiang,2022,sma,negeri,21,kabupaten
+bener meriah,2022,sma,negeri,13,kabupaten
+aceh jaya,2022,sma,negeri,11,kabupaten
+nagan raya,2022,sma,negeri,17,kabupaten
+banda aceh,2022,sma,negeri,17,kota
+aceh barat daya,2022,sma,negeri,13,kabupaten
+aceh singkil,2022,sma,negeri,10,kabupaten
+simeulue,2022,sma,negeri,25,kabupaten
+pidie jaya,2022,sma,negeri,10,kabupaten
+lhokseumawe,2022,sma,negeri,8,kota
+subulussalam,2022,sma,negeri,8,kota
+langsa,2022,sma,negeri,5,kota
+gayo lues,2022,sma,negeri,12,kabupaten
+sabang,2022,sma,negeri,2,kota
+aceh utara,2022,sma,swasta,16,kabupaten
+bireuen,2022,sma,swasta,13,kabupaten
+aceh timur,2022,sma,swasta,4,kabupaten
+aceh selatan,2022,sma,swasta,5,kabupaten
+aceh besar,2022,sma,swasta,20,kabupaten
+pidie,2022,sma,swasta,8,kabupaten
+aceh tenggara,2022,sma,swasta,8,kabupaten
+aceh tengah,2022,sma,swasta,3,kabupaten
+aceh barat,2022,sma,swasta,5,kabupaten
+aceh tamiang,2022,sma,swasta,6,kabupaten
+bener meriah,2022,sma,swasta,9,kabupaten
+aceh jaya,2022,sma,swasta,3,kabupaten
+nagan raya,2022,sma,swasta,2,kabupaten
+banda aceh,2022,sma,swasta,12,kota
+aceh barat daya,2022,sma,swasta,2,kabupaten
+aceh singkil,2022,sma,swasta,4,kabupaten
+simeulue,2022,sma,swasta,1,kabupaten
+pidie jaya,2022,sma,swasta,4,kabupaten
+lhokseumawe,2022,sma,swasta,5,kota
+subulussalam,2022,sma,swasta,6,kota
+langsa,2022,sma,swasta,4,kota
+gayo lues,2022,sma,swasta,4,kabupaten
+sabang,2022,sma,swasta,1,kota
+aceh utara,2022,smk,negeri,14,kabupaten
+bireuen,2022,smk,negeri,8,kabupaten
+aceh timur,2022,smk,negeri,15,kabupaten
+aceh selatan,2022,smk,negeri,10,kabupaten
+aceh besar,2022,smk,negeri,8,kabupaten
+pidie,2022,smk,negeri,7,kabupaten
+aceh tenggara,2022,smk,negeri,6,kabupaten
+aceh tengah,2022,smk,negeri,5,kabupaten
+aceh barat,2022,smk,negeri,11,kabupaten
+aceh tamiang,2022,smk,negeri,5,kabupaten
+bener meriah,2022,smk,negeri,5,kabupaten
+aceh jaya,2022,smk,negeri,6,kabupaten
+nagan raya,2022,smk,negeri,2,kabupaten
+banda aceh,2022,smk,negeri,6,kota
+aceh barat daya,2022,smk,negeri,5,kabupaten
+aceh singkil,2022,smk,negeri,6,kabupaten
+simeulue,2022,smk,negeri,8,kabupaten
+pidie jaya,2022,smk,negeri,4,kabupaten
+lhokseumawe,2022,smk,negeri,8,kota
+subulussalam,2022,smk,negeri,5,kota
+langsa,2022,smk,negeri,6,kota
+gayo lues,2022,smk,negeri,2,kabupaten
+sabang,2022,smk,negeri,1,kota
+aceh utara,2022,smk,swasta,14,kabupaten
+bireuen,2022,smk,swasta,4,kabupaten
+aceh timur,2022,smk,swasta,2,kabupaten
+aceh selatan,2022,smk,swasta,2,kabupaten
+aceh besar,2022,smk,swasta,3,kabupaten
+pidie,2022,smk,swasta,6,kabupaten
+aceh tenggara,2022,smk,swasta,11,kabupaten
+aceh tengah,2022,smk,swasta,1,kabupaten
+aceh barat,2022,smk,swasta,0,kabupaten
+aceh tamiang,2022,smk,swasta,5,kabupaten
+bener meriah,2022,smk,swasta,1,kabupaten
+aceh jaya,2022,smk,swasta,1,kabupaten
+nagan raya,2022,smk,swasta,3,kabupaten
+banda aceh,2022,smk,swasta,4,kota
+aceh barat daya,2022,smk,swasta,0,kabupaten
+aceh singkil,2022,smk,swasta,3,kabupaten
+simeulue,2022,smk,swasta,0,kabupaten
+pidie jaya,2022,smk,swasta,3,kabupaten
+lhokseumawe,2022,smk,swasta,4,kota
+subulussalam,2022,smk,swasta,1,kota
+langsa,2022,smk,swasta,3,kota
+gayo lues,2022,smk,swasta,0,kabupaten
+sabang,2022,smk,swasta,0,kota
+aceh utara,2022,slb,negeri,1,kabupaten
+bireuen,2022,slb,negeri,2,kabupaten
+aceh timur,2022,slb,negeri,1,kabupaten
+aceh selatan,2022,slb,negeri,1,kabupaten
+aceh besar,2022,slb,negeri,2,kabupaten
+pidie,2022,slb,negeri,2,kabupaten
+aceh tenggara,2022,slb,negeri,2,kabupaten
+aceh tengah,2022,slb,negeri,1,kabupaten
+aceh barat,2022,slb,negeri,1,kabupaten
+aceh tamiang,2022,slb,negeri,1,kabupaten
+bener meriah,2022,slb,negeri,1,kabupaten
+aceh jaya,2022,slb,negeri,1,kabupaten
+nagan raya,2022,slb,negeri,1,kabupaten
+banda aceh,2022,slb,negeri,1,kota
+aceh barat daya,2022,slb,negeri,1,kabupaten
+aceh singkil,2022,slb,negeri,1,kabupaten
+simeulue,2022,slb,negeri,1,kabupaten
+pidie jaya,2022,slb,negeri,1,kabupaten
+lhokseumawe,2022,slb,negeri,1,kota
+subulussalam,2022,slb,negeri,1,kota
+langsa,2022,slb,negeri,1,kota
+gayo lues,2022,slb,negeri,1,kabupaten
+sabang,2022,slb,negeri,2,kota
+aceh utara,2022,slb,swasta,4,kabupaten
+bireuen,2022,slb,swasta,4,kabupaten
+aceh timur,2022,slb,swasta,1,kabupaten
+aceh selatan,2022,slb,swasta,1,kabupaten
+aceh besar,2022,slb,swasta,0,kabupaten
+pidie,2022,slb,swasta,0,kabupaten
+aceh tenggara,2022,slb,swasta,0,kabupaten
+aceh tengah,2022,slb,swasta,7,kabupaten
+aceh barat,2022,slb,swasta,1,kabupaten
+aceh tamiang,2022,slb,swasta,0,kabupaten
+bener meriah,2022,slb,swasta,4,kabupaten
+aceh jaya,2022,slb,swasta,0,kabupaten
+nagan raya,2022,slb,swasta,0,kabupaten
+banda aceh,2022,slb,swasta,6,kota
+aceh barat daya,2022,slb,swasta,0,kabupaten
+aceh singkil,2022,slb,swasta,0,kabupaten
+simeulue,2022,slb,swasta,0,kabupaten
+pidie jaya,2022,slb,swasta,1,kabupaten
+lhokseumawe,2022,slb,swasta,2,kota
+subulussalam,2022,slb,swasta,0,kota
+langsa,2022,slb,swasta,3,kota
+gayo lues,2022,slb,swasta,3,kabupaten
+sabang,2022,slb,swasta,0,kota
