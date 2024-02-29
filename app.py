@@ -100,7 +100,6 @@ color_mapping = {
     'aceh timur': 'purple'
 }
 
-# Create line chart
 line_chart = alt.Chart(melted_df).mark_line().encode(
     x='Year:N',
     y=alt.Y('EYS:Q', scale=alt.Scale(domain=[13, 18])),
@@ -111,7 +110,8 @@ line_chart = alt.Chart(melted_df).mark_line().encode(
     title='EYS Growth for Top 3 Cities and Bottom 3 Regencies (2020-2022)'
 )
 
-# Display line chart
+
+
 st.altair_chart(line_chart, use_container_width=True)
 
 st.write("""
@@ -253,9 +253,9 @@ Here are some actionable recommendations that can be taken towards a more equal 
             
 **Promote Educational Growth Outside the Capital**
 - Decentralize resources, for example, in the form of funding, teacher training programs, and educational materials
-- Increase access to quality education by improving transportation and accomodation for students in remote areas.
+- Increase access to quality education by improving transportation and accommodation for students in remote areas.
 
-**Engage Community and Partners**
+**Engage Communities and Partners**
 - Involve local communities in educational planning and decision-making processes to validate and verify requirements.
 - Partner with NGOs to fund educational programs, especially in under-resourced areas.
 
