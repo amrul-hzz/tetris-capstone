@@ -71,7 +71,7 @@ From the barchart above, we can see that the **top 3** and **bottom 3** regions 
 - The bottom 3 were all regencies: **Bener Meriah, Aceh Barat Daya, and Aceh Timur**.
 
 It is very apparent that Banda Aceh, the capital of the province, is ahead by a large margin even amongst the top 3 regions. 
-Banda Aceh has an EYS index cosntantly above 17.0, meaning that students of Banda Aceh tend to be more likely to pursue higher education.
+Banda Aceh has an EYS index constantly above 17.0, meaning that students of Banda Aceh tend to be more likely to pursue higher education.
          
          
 """)
@@ -160,7 +160,7 @@ st.altair_chart(chart_2a, use_container_width=True)
 st.write("""
          - **Density**: Quite dense. Initially denser in cities, but not so much after 2020
          - **Fluctuation**: Aside from Banda Aceh, the top 3 and bottom 3 positions are very fluctuating throughout 2020-2022.
-        One of the first things that come to mind hearing that period of years is how education systems had to implement social distancing due to Covid-19. 
+        One of the first things that comes to mind hearing that period of years is how education systems had to implement social distancing due to Covid-19. 
         The fluctuations may suggest that outside of the capital, the infrastructure and resources were not robust enough to adapt to the new learning conditions.
          - **Growth over the years**: There is a noticeable drop from 2020 to 2021. The source data confirms that it is the number of students that are in significant decline, 
         not an increase in the number of schools, that caused the ratio to dwindle. This is supported by the fact that during the Pandemic, many students
@@ -196,7 +196,7 @@ st.altair_chart(chart_2b, use_container_width=True)
 
 st.write("""
          - **Density**: Very dense in the cities.
-         - **Fluctuation**: The top 3 densest regions seem to less fluctuating than the bottom 3, with Banda Aceh being the exception.
+         - **Fluctuation**: The top 3 densest regions seem to be less fluctuating than the bottom 3, with Banda Aceh being the exception.
          - **Growth over the years**: There is a significant drop in Banda Aceh in 2021 to 2022, where the numbers were cut by around half.
          """)
 
