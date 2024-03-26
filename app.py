@@ -92,7 +92,7 @@ st.write("""
          The EYS for a province is calculated by averaging the EYS numbers across regencies and cities, so it is worth asking if
          this relatively high EYS means that education across Aceh is already doing well or if it's **the work of outliers**.
          
-         Let us examine each region more closely.
+         Let us examine each region more closely. From this point onwards, barcharts will use **orange** to indicate cities and **blue** to indicate regencies.
          """)
 
 
